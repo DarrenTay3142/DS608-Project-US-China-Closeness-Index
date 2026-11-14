@@ -61,13 +61,39 @@ This document records the principal contributions to the **US-China Relative Ori
 
 ## Fazly Effendy Bin Ali
 
-### Presentation and dashboard review
+### Technology-trade data and processing
+
+- developed an exploratory technology-goods trade comparison of imports from the United States and China, using UN Comtrade data for HS 8471, 8517, 8541, and 8542;
+- assembled 2014-2025 data from four bulk Comtrade batches and 13 Comtrade+ API slices;
+- developed a Comtrade+ API collector for slices missing from the bulk download, with caching and a request manifest;
+- implemented reporter-code mapping through a Comtrade-to-ISO3 crosswalk;
+- implemented duplicate auditing across overlapping batches;
+- implemented matched-basket scoring of US-minus-China imports, without treating missing values as zero;
+- added data-status flags, coverage and quality-assurance outputs, and unit tests; and
+- submitted the pipeline and a proposed decision-register entry for team review on the `technology-pillar-comtrade` branch.
+
+### Technology analysis and findings
+
+- reviewed the score distribution, category decomposition, country examples, time trends, and partial-basket behaviour;
+- found that technology-hardware sourcing is strongly China-oriented, with a median score of -0.83;
+- showed that close US partners, including Japan, Germany, the United Kingdom, and Australia, also source mainly from China;
+- concluded that the measure captures country of manufacture rather than geopolitical alignment;
+- identified telecommunications equipment as the main driver and integrated circuits as the only category with substantial US sourcing;
+- tested whether solar products, partial baskets, and HS revisions distort the combined score, and found their effect small; and
+- documented the analysis in a technology findings review, with recommendations on labelling, partial baskets, and an integrated-circuits sub-indicator.
+
+### Dashboard prototype and review
+
+- prepared a local Streamlit dashboard prototype with map, country-profile, pillar-comparison, weight-explorer, and methodology views;
+- reviewed the pipeline and documented five issues with proposed fixes;
+- drafted dashboard weighting tests; and
+- handed over the prototype and review for integration into the final dashboard.
+
+### Presentation
 
 - participated in team review and coordination of the final dashboard deliverable;
 - assumed responsibility for presenting the live dashboard walkthrough and explaining its contents during the final class presentation; and
 - supported final presentation integration across the methodology, construction, and demonstration segments.
-
-> Before final submission, this section should be reviewed by Fazly and expanded if additional data, code, analysis, documentation, or testing contributions should be recorded.
 
 ## Shared responsibilities
 
