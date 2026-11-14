@@ -8,6 +8,9 @@ scipy
 # UN Comtrade access
 comtradeapicall>=1.3,<2.0
 
+# Country-code crosswalk (exploratory Comtrade technology comparison)
+pycountry
+
 # Notebook environment
 jupyterlab>=4.2,<5.0
 ipykernel>=6.29,<7.0

@@ -1,0 +1,6 @@
+filter_step,rows_remaining
+raw,16094
+flowCode == M,16094
+motCode == 0,16094
+"partnerCode in {156, 842}",16094
+cmdCode in HS basket,16094

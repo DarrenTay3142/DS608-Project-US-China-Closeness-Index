@@ -1,0 +1,4 @@
+stage,rows,key_duplicate_rows
+after filters,16094,1346
+A: drop exact cross-batch copies,15421,0
+B: keep total-dimension rows,15421,0

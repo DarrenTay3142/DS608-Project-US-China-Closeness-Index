@@ -1,0 +1,1444 @@
+country_iso3,country,year,flag,detail
+ATG,Antigua and Barbuda,2017,large_yoy_change,-0.18 (2016) -> +0.45
+BEN,Benin,2015,large_yoy_change,-0.14 (2014) -> -0.85
+BRB,Barbados,2020,large_yoy_change,+0.28 (2019) -> +0.79
+BTN,Bhutan,2020,large_yoy_change,-0.41 (2019) -> -0.91
+CAF,Central African Rep.,2019,large_yoy_change,-0.62 (2018) -> +0.02
+CAF,Central African Rep.,2020,large_yoy_change,+0.02 (2019) -> -0.49
+CAF,Central African Rep.,2023,large_yoy_change,-0.21 (2022) -> +0.40
+CAF,Central African Rep.,2024,large_yoy_change,+0.40 (2023) -> -0.45
+COM,Comoros,2016,large_yoy_change,-0.50 (2015) -> +0.92
+COM,Comoros,2017,large_yoy_change,+0.92 (2016) -> +0.30
+COM,Comoros,2018,large_yoy_change,+0.30 (2017) -> -0.91
+COM,Comoros,2025,large_yoy_change,-0.95 (2022) -> +0.15
+DJI,Djibouti,2023,large_yoy_change,-0.98 (2022) -> -0.43
+GMB,Gambia,2018,large_yoy_change,+0.53 (2017) -> -0.74
+GMB,Gambia,2019,large_yoy_change,-0.74 (2018) -> +0.09
+GMB,Gambia,2020,large_yoy_change,+0.09 (2019) -> -0.53
+GMB,Gambia,2024,large_yoy_change,-0.49 (2023) -> +0.31
+GNB,Guinea-Bissau,2017,large_yoy_change,-0.73 (2016) -> -0.10
+GTM,Guatemala,2021,large_yoy_change,+0.57 (2020) -> +0.02
+GTM,Guatemala,2022,large_yoy_change,+0.02 (2021) -> -0.65
+IRQ,Iraq,2021,large_yoy_change,+0.05 (2014) -> -1.00
+ISL,Iceland,2024,large_yoy_change,-0.49 (2023) -> +0.03
+ISR,Israel,2018,large_yoy_change,+0.37 (2017) -> -0.47
+ISR,Israel,2020,large_yoy_change,-0.40 (2019) -> +0.20
+ISR,Israel,2023,large_yoy_change,+0.27 (2022) -> -0.46
+ISR,Israel,2024,large_yoy_change,-0.46 (2023) -> +0.52
+KIR,Kiribati,2015,large_yoy_change,+0.24 (2014) -> -0.93
+KIR,Kiribati,2016,large_yoy_change,-0.93 (2015) -> +0.23
+KIR,Kiribati,2020,large_yoy_change,-0.15 (2018) -> -0.92
+LCA,Saint Lucia,2018,large_yoy_change,+0.93 (2017) -> +0.35
+MDV,Maldives,2022,large_yoy_change,-0.05 (2021) -> -0.58
+MDV,Maldives,2024,large_yoy_change,-0.10 (2023) -> -0.73
+MSR,Montserrat,2022,large_yoy_change,+0.99 (2021) -> -0.74
+MSR,Montserrat,2023,large_yoy_change,-0.74 (2022) -> +0.92
+SLE,Sierra Leone,2015,large_yoy_change,+0.84 (2014) -> -0.52
+SLE,Sierra Leone,2016,large_yoy_change,-0.52 (2015) -> +0.87
+SLE,Sierra Leone,2017,large_yoy_change,+0.87 (2016) -> +0.19
+SLE,Sierra Leone,2018,large_yoy_change,+0.19 (2017) -> -0.57
+STP,Sao Tome and Principe,2017,large_yoy_change,-0.84 (2016) -> +0.47
+STP,Sao Tome and Principe,2018,large_yoy_change,+0.47 (2017) -> -0.64
+STP,Sao Tome and Principe,2019,large_yoy_change,-0.64 (2018) -> +0.12
+STP,Sao Tome and Principe,2020,large_yoy_change,+0.12 (2019) -> -0.99
+STP,Sao Tome and Principe,2022,large_yoy_change,-0.58 (2021) -> +0.21
+STP,Sao Tome and Principe,2023,large_yoy_change,+0.21 (2022) -> -0.77
+STP,Sao Tome and Principe,2024,large_yoy_change,-0.77 (2023) -> +0.66
+STP,Sao Tome and Principe,2025,large_yoy_change,+0.66 (2024) -> -0.68
+SUR,Suriname,2017,large_yoy_change,+0.89 (2016) -> -0.09
+SUR,Suriname,2025,large_yoy_change,+0.71 (2024) -> +0.07
+SWZ,Eswatini,2015,large_yoy_change,-0.53 (2014) -> +0.38
+SWZ,Eswatini,2016,large_yoy_change,+0.38 (2015) -> -0.85
+TTO,Trinidad and Tobago,2016,large_yoy_change,+0.44 (2015) -> -0.28
+WSM,Samoa,2017,large_yoy_change,-0.70 (2016) -> +0.36
+WSM,Samoa,2018,large_yoy_change,+0.36 (2017) -> -0.65
+WSM,Samoa,2019,large_yoy_change,-0.65 (2018) -> +0.51
+WSM,Samoa,2021,large_yoy_change,+0.51 (2019) -> -0.57
+ABW,Aruba,2015,near_bound_score,score +0.969
+ABW,Aruba,2017,near_bound_score,score +0.969
+AFG,Afghanistan,2017,near_bound_score,score -0.953
+AFG,Afghanistan,2018,near_bound_score,score -1.000
+ALB,Albania,2019,near_bound_score,score -0.957
+ALB,Albania,2021,near_bound_score,score -0.970
+ALB,Albania,2023,near_bound_score,score -0.977
+ALB,Albania,2024,near_bound_score,score -0.971
+ARE,United Arab Emirates,2017,near_bound_score,score -0.962
+ARE,United Arab Emirates,2020,near_bound_score,score -0.954
+ARE,United Arab Emirates,2021,near_bound_score,score -0.967
+ARE,United Arab Emirates,2022,near_bound_score,score -0.969
+ARE,United Arab Emirates,2023,near_bound_score,score -0.963
+ARG,Argentina,2022,near_bound_score,score -0.954
+ARM,Armenia,2018,near_bound_score,score -0.956
+ARM,Armenia,2019,near_bound_score,score -0.973
+ARM,Armenia,2020,near_bound_score,score -0.958
+ARM,Armenia,2021,near_bound_score,score -0.956
+ARM,Armenia,2022,near_bound_score,score -0.965
+ARM,Armenia,2023,near_bound_score,score -0.967
+ARM,Armenia,2024,near_bound_score,score -0.967
+ARM,Armenia,2025,near_bound_score,score -0.966
+AZE,Azerbaijan,2020,near_bound_score,score -0.952
+AZE,Azerbaijan,2025,near_bound_score,score -0.968
+BEN,Benin,2021,near_bound_score,score -0.953
+BEN,Benin,2023,near_bound_score,score -0.977
+BEN,Benin,2024,near_bound_score,score -0.987
+BFA,Burkina Faso,2025,near_bound_score,score -0.951
+BGD,Bangladesh,2015,near_bound_score,score -0.986
+BGD,Bangladesh,2016,near_bound_score,score -0.969
+BGD,Bangladesh,2017,near_bound_score,score -0.986
+BHR,Bahrain,2014,near_bound_score,score -0.958
+BHR,Bahrain,2015,near_bound_score,score -0.951
+BHR,Bahrain,2024,near_bound_score,score -0.953
+BHS,Bahamas,2014,near_bound_score,score +0.995
+BHS,Bahamas,2015,near_bound_score,score +0.984
+BHS,Bahamas,2016,near_bound_score,score +0.993
+BHS,Bahamas,2017,near_bound_score,score +0.980
+BHS,Bahamas,2018,near_bound_score,score +0.998
+BHS,Bahamas,2019,near_bound_score,score +0.986
+BHS,Bahamas,2020,near_bound_score,score +0.955
+BHS,Bahamas,2021,near_bound_score,score +0.954
+BIH,Bosnia Herzegovina,2018,near_bound_score,score -0.953
+BIH,Bosnia Herzegovina,2021,near_bound_score,score -0.955
+BIH,Bosnia Herzegovina,2023,near_bound_score,score -0.980
+BIH,Bosnia Herzegovina,2024,near_bound_score,score -0.970
+BIH,Bosnia Herzegovina,2025,near_bound_score,score -0.982
+BLR,Belarus,2017,near_bound_score,score -0.956
+BLR,Belarus,2018,near_bound_score,score -0.969
+BLR,Belarus,2019,near_bound_score,score -0.963
+BLR,Belarus,2020,near_bound_score,score -0.957
+BLR,Belarus,2021,near_bound_score,score -0.966
+BMU,Bermuda,2024,near_bound_score,score +0.955
+BMU,Bermuda,2025,near_bound_score,score +0.973
+BTN,Bhutan,2022,near_bound_score,score -0.992
+BTN,Bhutan,2023,near_bound_score,score -0.998
+BTN,Bhutan,2025,near_bound_score,score -0.990
+CIV,Côte d'Ivoire,2018,near_bound_score,score -0.952
+CIV,Côte d'Ivoire,2019,near_bound_score,score -0.952
+CIV,Côte d'Ivoire,2023,near_bound_score,score -0.965
+CIV,Côte d'Ivoire,2025,near_bound_score,score -0.950
+CMR,Cameroon,2014,near_bound_score,score -0.957
+CMR,Cameroon,2016,near_bound_score,score -0.976
+CMR,Cameroon,2018,near_bound_score,score -0.970
+CMR,Cameroon,2019,near_bound_score,score -0.950
+COD,Dem. Rep. of the Congo,2024,near_bound_score,score -0.961
+COG,Congo,2020,near_bound_score,score -0.955
+COM,Comoros,2019,near_bound_score,score -0.986
+COM,Comoros,2020,near_bound_score,score -0.999
+COM,Comoros,2021,near_bound_score,score -0.951
+COM,Comoros,2022,near_bound_score,score -0.951
+CUB,Cuba,2016,near_bound_score,score -1.000
+CUB,Cuba,2017,near_bound_score,score -0.999
+CUB,Cuba,2018,near_bound_score,score -1.000
+CUB,Cuba,2019,near_bound_score,score -0.999
+CUB,Cuba,2020,near_bound_score,score -0.999
+CUB,Cuba,2021,near_bound_score,score -0.997
+CYM,Cayman Isds,2020,near_bound_score,score +0.991
+CYM,Cayman Isds,2024,near_bound_score,score +0.984
+DJI,Djibouti,2021,near_bound_score,score -0.960
+DJI,Djibouti,2022,near_bound_score,score -0.978
+DMA,Dominica,2017,near_bound_score,score +0.958
+DMA,Dominica,2019,near_bound_score,score +0.954
+EGY,Egypt,2018,near_bound_score,score -0.950
+ETH,Ethiopia,2014,near_bound_score,score -0.975
+ETH,Ethiopia,2021,near_bound_score,score -0.953
+GEO,Georgia,2025,near_bound_score,score -0.968
+GMB,Gambia,2022,near_bound_score,score -0.983
+GRC,Greece,2014,near_bound_score,score -0.963
+GRC,Greece,2015,near_bound_score,score -0.956
+GRC,Greece,2016,near_bound_score,score -0.955
+GRC,Greece,2018,near_bound_score,score -0.963
+GRC,Greece,2019,near_bound_score,score -0.952
+GRC,Greece,2020,near_bound_score,score -0.959
+GRC,Greece,2022,near_bound_score,score -0.970
+GRC,Greece,2023,near_bound_score,score -0.966
+GRC,Greece,2024,near_bound_score,score -0.960
+GRD,Grenada,2014,near_bound_score,score +0.963
+GRD,Grenada,2016,near_bound_score,score +0.984
+GRD,Grenada,2018,near_bound_score,score +0.971
+GRL,Greenland,2017,near_bound_score,score -0.962
+GRL,Greenland,2018,near_bound_score,score -0.994
+HRV,Croatia,2022,near_bound_score,score -0.955
+IDN,Indonesia,2021,near_bound_score,score -0.964
+IDN,Indonesia,2022,near_bound_score,score -0.960
+IDN,Indonesia,2023,near_bound_score,score -0.953
+IRN,Iran,2014,near_bound_score,score -0.999
+IRN,Iran,2015,near_bound_score,score -1.000
+IRN,Iran,2016,near_bound_score,score -0.998
+IRN,Iran,2017,near_bound_score,score -1.000
+IRN,Iran,2018,near_bound_score,score -0.999
+IRN,Iran,2021,near_bound_score,score -0.996
+IRQ,Iraq,2021,near_bound_score,score -0.997
+IRQ,Iraq,2023,near_bound_score,score -0.990
+IRQ,Iraq,2024,near_bound_score,score -0.998
+JOR,Jordan,2015,near_bound_score,score -0.950
+JOR,Jordan,2017,near_bound_score,score -0.967
+JOR,Jordan,2018,near_bound_score,score -0.963
+JOR,Jordan,2019,near_bound_score,score -0.963
+JOR,Jordan,2020,near_bound_score,score -0.954
+JOR,Jordan,2021,near_bound_score,score -0.959
+JOR,Jordan,2022,near_bound_score,score -0.971
+JOR,Jordan,2023,near_bound_score,score -0.961
+KAZ,Kazakhstan,2019,near_bound_score,score -0.952
+KAZ,Kazakhstan,2023,near_bound_score,score -0.959
+KGZ,Kyrgyzstan,2014,near_bound_score,score -0.966
+KGZ,Kyrgyzstan,2016,near_bound_score,score -0.968
+KGZ,Kyrgyzstan,2017,near_bound_score,score -0.985
+KGZ,Kyrgyzstan,2018,near_bound_score,score -0.990
+KGZ,Kyrgyzstan,2019,near_bound_score,score -0.991
+KGZ,Kyrgyzstan,2020,near_bound_score,score -0.994
+KGZ,Kyrgyzstan,2021,near_bound_score,score -0.984
+KGZ,Kyrgyzstan,2022,near_bound_score,score -0.976
+KGZ,Kyrgyzstan,2023,near_bound_score,score -0.976
+KGZ,Kyrgyzstan,2024,near_bound_score,score -0.963
+KGZ,Kyrgyzstan,2025,near_bound_score,score -0.963
+KHM,Cambodia,2015,near_bound_score,score -0.981
+KHM,Cambodia,2016,near_bound_score,score -0.965
+KHM,Cambodia,2017,near_bound_score,score -0.955
+KHM,Cambodia,2018,near_bound_score,score -0.978
+KHM,Cambodia,2019,near_bound_score,score -0.977
+KHM,Cambodia,2020,near_bound_score,score -0.992
+KHM,Cambodia,2021,near_bound_score,score -0.992
+KHM,Cambodia,2022,near_bound_score,score -0.991
+KHM,Cambodia,2023,near_bound_score,score -0.960
+KHM,Cambodia,2024,near_bound_score,score -0.987
+KHM,Cambodia,2025,near_bound_score,score -0.982
+KWT,Kuwait,2018,near_bound_score,score -0.954
+KWT,Kuwait,2019,near_bound_score,score -0.972
+KWT,Kuwait,2020,near_bound_score,score -0.977
+KWT,Kuwait,2021,near_bound_score,score -0.958
+KWT,Kuwait,2022,near_bound_score,score -0.966
+KWT,Kuwait,2023,near_bound_score,score -0.970
+KWT,Kuwait,2024,near_bound_score,score -0.971
+KWT,Kuwait,2025,near_bound_score,score -0.973
+LAO,Lao People's Dem. Rep.,2014,near_bound_score,score -0.957
+LAO,Lao People's Dem. Rep.,2015,near_bound_score,score -0.970
+LAO,Lao People's Dem. Rep.,2016,near_bound_score,score -0.977
+LAO,Lao People's Dem. Rep.,2017,near_bound_score,score -0.986
+LAO,Lao People's Dem. Rep.,2018,near_bound_score,score -0.997
+LAO,Lao People's Dem. Rep.,2019,near_bound_score,score -0.997
+LAO,Lao People's Dem. Rep.,2020,near_bound_score,score -0.994
+LAO,Lao People's Dem. Rep.,2021,near_bound_score,score -0.959
+LAO,Lao People's Dem. Rep.,2022,near_bound_score,score -0.997
+LAO,Lao People's Dem. Rep.,2023,near_bound_score,score -0.981
+LBN,Lebanon,2019,near_bound_score,score -0.953
+LBN,Lebanon,2020,near_bound_score,score -0.956
+LBN,Lebanon,2021,near_bound_score,score -0.983
+LBN,Lebanon,2022,near_bound_score,score -0.995
+LBN,Lebanon,2023,near_bound_score,score -0.989
+LBN,Lebanon,2024,near_bound_score,score -0.981
+LBR,Liberia,2023,near_bound_score,score -0.957
+LBR,Liberia,2025,near_bound_score,score -0.963
+LCA,Saint Lucia,2016,near_bound_score,score +0.952
+LKA,Sri Lanka,2020,near_bound_score,score -0.951
+LKA,Sri Lanka,2021,near_bound_score,score -0.963
+LSO,Lesotho,2014,near_bound_score,score -0.954
+LSO,Lesotho,2024,near_bound_score,score -0.984
+LTU,Lithuania,2023,near_bound_score,score -0.953
+MAC,"China, Macao SAR",2016,near_bound_score,score -0.966
+MAC,"China, Macao SAR",2018,near_bound_score,score -0.954
+MAC,"China, Macao SAR",2019,near_bound_score,score -0.952
+MAC,"China, Macao SAR",2020,near_bound_score,score -0.955
+MAC,"China, Macao SAR",2021,near_bound_score,score -0.979
+MAR,Morocco,2018,near_bound_score,score -0.955
+MAR,Morocco,2020,near_bound_score,score -0.966
+MAR,Morocco,2021,near_bound_score,score -0.968
+MAR,Morocco,2022,near_bound_score,score -0.968
+MAR,Morocco,2023,near_bound_score,score -0.956
+MDA,Rep. of Moldova,2017,near_bound_score,score -0.952
+MDA,Rep. of Moldova,2018,near_bound_score,score -0.975
+MDA,Rep. of Moldova,2020,near_bound_score,score -0.986
+MDA,Rep. of Moldova,2022,near_bound_score,score -0.957
+MDA,Rep. of Moldova,2023,near_bound_score,score -0.975
+MDA,Rep. of Moldova,2024,near_bound_score,score -0.969
+MDG,Madagascar,2018,near_bound_score,score -0.958
+MDG,Madagascar,2021,near_bound_score,score -0.953
+MDG,Madagascar,2022,near_bound_score,score -0.952
+MKD,North Macedonia,2022,near_bound_score,score -0.952
+MKD,North Macedonia,2025,near_bound_score,score -0.978
+MLI,Mali,2018,near_bound_score,score -0.959
+MLI,Mali,2024,near_bound_score,score -0.952
+MMR,Myanmar,2014,near_bound_score,score -0.961
+MMR,Myanmar,2015,near_bound_score,score -0.974
+MMR,Myanmar,2016,near_bound_score,score -0.983
+MMR,Myanmar,2017,near_bound_score,score -0.972
+MMR,Myanmar,2018,near_bound_score,score -0.979
+MMR,Myanmar,2019,near_bound_score,score -0.961
+MMR,Myanmar,2020,near_bound_score,score -0.984
+MMR,Myanmar,2021,near_bound_score,score -0.982
+MMR,Myanmar,2022,near_bound_score,score -0.981
+MMR,Myanmar,2023,near_bound_score,score -0.988
+MMR,Myanmar,2024,near_bound_score,score -0.978
+MMR,Myanmar,2025,near_bound_score,score -0.998
+MNE,Montenegro,2014,near_bound_score,score -0.963
+MNE,Montenegro,2016,near_bound_score,score -0.955
+MNE,Montenegro,2017,near_bound_score,score -0.974
+MNE,Montenegro,2018,near_bound_score,score -0.956
+MNE,Montenegro,2019,near_bound_score,score -0.963
+MNE,Montenegro,2022,near_bound_score,score -0.983
+MNE,Montenegro,2023,near_bound_score,score -0.964
+MNE,Montenegro,2024,near_bound_score,score -0.967
+MRT,Mauritania,2015,near_bound_score,score -0.970
+MRT,Mauritania,2022,near_bound_score,score -0.981
+MRT,Mauritania,2024,near_bound_score,score -0.971
+MSR,Montserrat,2015,near_bound_score,score +0.984
+MSR,Montserrat,2018,near_bound_score,score +0.994
+MSR,Montserrat,2021,near_bound_score,score +0.990
+MUS,Mauritius,2014,near_bound_score,score -0.951
+MUS,Mauritius,2015,near_bound_score,score -0.973
+MUS,Mauritius,2022,near_bound_score,score -0.965
+NAM,Namibia,2022,near_bound_score,score -0.954
+NAM,Namibia,2023,near_bound_score,score -0.957
+NAM,Namibia,2025,near_bound_score,score -0.952
+NGA,Nigeria,2020,near_bound_score,score -0.951
+NPL,Nepal,2014,near_bound_score,score -0.968
+NPL,Nepal,2015,near_bound_score,score -0.968
+NPL,Nepal,2016,near_bound_score,score -0.966
+NPL,Nepal,2017,near_bound_score,score -0.958
+NPL,Nepal,2018,near_bound_score,score -0.980
+NPL,Nepal,2019,near_bound_score,score -0.962
+NPL,Nepal,2021,near_bound_score,score -0.961
+NPL,Nepal,2022,near_bound_score,score -0.963
+OMN,Oman,2020,near_bound_score,score -0.950
+OMN,Oman,2024,near_bound_score,score -0.970
+PAK,Pakistan,2023,near_bound_score,score -0.960
+PAK,Pakistan,2024,near_bound_score,score -0.972
+PAK,Pakistan,2025,near_bound_score,score -0.985
+PER,Peru,2022,near_bound_score,score -0.952
+POL,Poland,2024,near_bound_score,score -0.951
+PRY,Paraguay,2021,near_bound_score,score -0.970
+PRY,Paraguay,2022,near_bound_score,score -0.968
+PRY,Paraguay,2023,near_bound_score,score -0.980
+PRY,Paraguay,2024,near_bound_score,score -0.958
+PRY,Paraguay,2025,near_bound_score,score -0.967
+PSE,State of Palestine,2014,near_bound_score,score -0.973
+PSE,State of Palestine,2017,near_bound_score,score -0.995
+PSE,State of Palestine,2018,near_bound_score,score -0.973
+PSE,State of Palestine,2019,near_bound_score,score -0.977
+PSE,State of Palestine,2021,near_bound_score,score -0.972
+PSE,State of Palestine,2022,near_bound_score,score -0.976
+RUS,Russian Federation,2020,near_bound_score,score -0.952
+RUS,Russian Federation,2021,near_bound_score,score -0.961
+RWA,Rwanda,2014,near_bound_score,score -0.953
+RWA,Rwanda,2018,near_bound_score,score -0.954
+RWA,Rwanda,2019,near_bound_score,score -0.963
+RWA,Rwanda,2021,near_bound_score,score -0.955
+RWA,Rwanda,2023,near_bound_score,score -0.951
+SDN,Sudan,2015,near_bound_score,score -0.993
+SDN,Sudan,2016,near_bound_score,score -0.950
+SDN,Sudan,2017,near_bound_score,score -0.967
+SEN,Senegal,2016,near_bound_score,score -0.965
+SEN,Senegal,2018,near_bound_score,score -0.976
+SEN,Senegal,2022,near_bound_score,score -0.955
+SEN,Senegal,2023,near_bound_score,score -0.952
+SRB,Serbia,2023,near_bound_score,score -0.951
+SRB,Serbia,2025,near_bound_score,score -0.955
+STP,Sao Tome and Principe,2020,near_bound_score,score -0.995
+SVK,Slovakia,2014,near_bound_score,score -0.952
+SVK,Slovakia,2015,near_bound_score,score -0.963
+TGO,Togo,2014,near_bound_score,score -0.971
+TGO,Togo,2015,near_bound_score,score -0.991
+TGO,Togo,2016,near_bound_score,score -0.981
+TGO,Togo,2019,near_bound_score,score -0.986
+TGO,Togo,2022,near_bound_score,score -0.963
+TJK,Tajikistan,2018,near_bound_score,score -0.961
+TJK,Tajikistan,2019,near_bound_score,score -0.987
+TJK,Tajikistan,2021,near_bound_score,score -0.989
+TJK,Tajikistan,2023,near_bound_score,score -0.953
+TLS,Timor-Leste,2023,near_bound_score,score -0.968
+TUN,Tunisia,2020,near_bound_score,score -0.956
+TUN,Tunisia,2021,near_bound_score,score -0.977
+TUN,Tunisia,2022,near_bound_score,score -0.966
+TUN,Tunisia,2023,near_bound_score,score -0.960
+TUN,Tunisia,2024,near_bound_score,score -0.983
+TZA,United Rep. of Tanzania,2023,near_bound_score,score -0.956
+TZA,United Rep. of Tanzania,2024,near_bound_score,score -0.951
+UGA,Uganda,2017,near_bound_score,score -0.950
+UGA,Uganda,2018,near_bound_score,score -0.954
+UGA,Uganda,2019,near_bound_score,score -0.971
+UGA,Uganda,2020,near_bound_score,score -0.953
+UGA,Uganda,2021,near_bound_score,score -0.967
+UGA,Uganda,2022,near_bound_score,score -0.963
+UGA,Uganda,2023,near_bound_score,score -0.964
+UGA,Uganda,2024,near_bound_score,score -0.965
+UGA,Uganda,2025,near_bound_score,score -0.986
+UKR,Ukraine,2014,near_bound_score,score -0.960
+UKR,Ukraine,2015,near_bound_score,score -0.956
+UKR,Ukraine,2016,near_bound_score,score -0.961
+UKR,Ukraine,2018,near_bound_score,score -0.974
+UKR,Ukraine,2019,near_bound_score,score -0.966
+UKR,Ukraine,2020,near_bound_score,score -0.969
+UKR,Ukraine,2021,near_bound_score,score -0.968
+UKR,Ukraine,2022,near_bound_score,score -0.970
+UZB,Uzbekistan,2019,near_bound_score,score -0.954
+UZB,Uzbekistan,2020,near_bound_score,score -0.971
+UZB,Uzbekistan,2022,near_bound_score,score -0.973
+UZB,Uzbekistan,2023,near_bound_score,score -0.960
+YEM,Yemen,2015,near_bound_score,score -0.977
+YEM,Yemen,2019,near_bound_score,score -0.986
+YEM,Yemen,2024,near_bound_score,score -0.998
+AND,Andorra,,us_partner_always_missing,US imports absent in all 12 years with data
+BTN,Bhutan,,suspicious_gap,"no data in [2021, 2024] between 2016-2025"
+COM,Comoros,,suspicious_gap,no data in [2024] between 2014-2025
+CYM,Cayman Isds,,suspicious_gap,"no data in [2016, 2017, 2018, 2019] between 2015-2024"
+DZA,Algeria,,suspicious_gap,"no data in [2018, 2019, 2020, 2021, 2022, 2023] between 2014-2024"
+GHA,Ghana,,suspicious_gap,no data in [2020] between 2014-2025
+IRQ,Iraq,,suspicious_gap,"no data in [2015, 2016, 2017, 2018, 2019, 2020] between 2014-2024"
+KAZ,Kazakhstan,,suspicious_gap,"no data in [2020, 2021, 2022] between 2014-2025"
+KIR,Kiribati,,suspicious_gap,no data in [2019] between 2014-2021
+LKA,Sri Lanka,,suspicious_gap,no data in [2018] between 2014-2025
+LSO,Lesotho,,suspicious_gap,no data in [2017] between 2014-2024
+TON,Tonga,,suspicious_gap,"no data in [2015, 2016, 2024] between 2014-2025"
+WSM,Samoa,,suspicious_gap,no data in [2020] between 2014-2025
+YEM,Yemen,,suspicious_gap,"no data in [2016, 2017, 2020, 2021, 2022] between 2014-2024"
+ABW,Aruba,2015,small_total_value,"China tech imports US$537,448 < US$1,000,000"
+ABW,Aruba,2016,small_total_value,"China tech imports US$655,861 < US$1,000,000"
+ABW,Aruba,2017,small_total_value,"China tech imports US$462,428 < US$1,000,000"
+ABW,Aruba,2020,small_total_value,"China tech imports US$893,466 < US$1,000,000"
+ABW,Aruba,2021,small_total_value,"China tech imports US$805,506 < US$1,000,000"
+AFG,Afghanistan,2015,small_total_value,"China tech imports US$725,122 < US$1,000,000"
+AFG,Afghanistan,2017,small_total_value,"US tech imports US$269,202 < US$1,000,000"
+AFG,Afghanistan,2018,small_total_value,"US tech imports US$371 < US$1,000,000"
+ALB,Albania,2014,small_total_value,"US tech imports US$927,636 < US$1,000,000"
+ALB,Albania,2017,small_total_value,"US tech imports US$983,809 < US$1,000,000"
+ALB,Albania,2019,small_total_value,"US tech imports US$994,207 < US$1,000,000"
+ALB,Albania,2022,small_total_value,"China tech imports US$160,447 < US$1,000,000"
+ALB,Albania,2022,small_total_value,"US tech imports US$1,534 < US$1,000,000"
+ATG,Antigua and Barbuda,2023,small_total_value,"China tech imports US$915,535 < US$1,000,000"
+BDI,Burundi,2014,small_total_value,"US tech imports US$583,258 < US$1,000,000"
+BDI,Burundi,2015,small_total_value,"US tech imports US$295,631 < US$1,000,000"
+BDI,Burundi,2016,small_total_value,"US tech imports US$307,208 < US$1,000,000"
+BDI,Burundi,2017,small_total_value,"US tech imports US$314,416 < US$1,000,000"
+BDI,Burundi,2018,small_total_value,"US tech imports US$879,866 < US$1,000,000"
+BDI,Burundi,2019,small_total_value,"US tech imports US$369,690 < US$1,000,000"
+BDI,Burundi,2020,small_total_value,"US tech imports US$797,914 < US$1,000,000"
+BDI,Burundi,2021,small_total_value,"US tech imports US$473,327 < US$1,000,000"
+BDI,Burundi,2022,small_total_value,"US tech imports US$438,508 < US$1,000,000"
+BDI,Burundi,2023,small_total_value,"US tech imports US$423,890 < US$1,000,000"
+BEN,Benin,2016,small_total_value,"US tech imports US$378,814 < US$1,000,000"
+BEN,Benin,2017,small_total_value,"US tech imports US$872,454 < US$1,000,000"
+BEN,Benin,2018,small_total_value,"US tech imports US$748,508 < US$1,000,000"
+BEN,Benin,2021,small_total_value,"US tech imports US$516,325 < US$1,000,000"
+BEN,Benin,2023,small_total_value,"US tech imports US$279,729 < US$1,000,000"
+BEN,Benin,2024,small_total_value,"US tech imports US$215,861 < US$1,000,000"
+BHS,Bahamas,2014,small_total_value,"China tech imports US$142,674 < US$1,000,000"
+BHS,Bahamas,2015,small_total_value,"China tech imports US$512,230 < US$1,000,000"
+BHS,Bahamas,2016,small_total_value,"China tech imports US$165,629 < US$1,000,000"
+BHS,Bahamas,2017,small_total_value,"China tech imports US$727,389 < US$1,000,000"
+BHS,Bahamas,2018,small_total_value,"China tech imports US$54,818 < US$1,000,000"
+BHS,Bahamas,2019,small_total_value,"China tech imports US$320,103 < US$1,000,000"
+BHS,Bahamas,2020,small_total_value,"China tech imports US$943,291 < US$1,000,000"
+BMU,Bermuda,2014,small_total_value,"China tech imports US$704,470 < US$1,000,000"
+BMU,Bermuda,2018,small_total_value,"China tech imports US$907,556 < US$1,000,000"
+BMU,Bermuda,2019,small_total_value,"China tech imports US$778,541 < US$1,000,000"
+BMU,Bermuda,2020,small_total_value,"China tech imports US$741,332 < US$1,000,000"
+BMU,Bermuda,2021,small_total_value,"China tech imports US$870,684 < US$1,000,000"
+BMU,Bermuda,2022,small_total_value,"China tech imports US$806,433 < US$1,000,000"
+BMU,Bermuda,2023,small_total_value,"China tech imports US$643,656 < US$1,000,000"
+BMU,Bermuda,2024,small_total_value,"China tech imports US$361,741 < US$1,000,000"
+BMU,Bermuda,2025,small_total_value,"China tech imports US$214,029 < US$1,000,000"
+BTN,Bhutan,2016,small_total_value,"US tech imports US$136,100 < US$1,000,000"
+BTN,Bhutan,2017,small_total_value,"US tech imports US$215,455 < US$1,000,000"
+BTN,Bhutan,2018,small_total_value,"US tech imports US$160,307 < US$1,000,000"
+BTN,Bhutan,2019,small_total_value,"China tech imports US$637,877 < US$1,000,000"
+BTN,Bhutan,2019,small_total_value,"US tech imports US$244,320 < US$1,000,000"
+BTN,Bhutan,2020,small_total_value,"US tech imports US$325,759 < US$1,000,000"
+BTN,Bhutan,2022,small_total_value,"US tech imports US$492,233 < US$1,000,000"
+BTN,Bhutan,2023,small_total_value,"US tech imports US$51,697 < US$1,000,000"
+CAF,Central African Rep.,2015,small_total_value,"US tech imports US$978,381 < US$1,000,000"
+CAF,Central African Rep.,2018,small_total_value,"US tech imports US$589,117 < US$1,000,000"
+COG,Congo,2017,small_total_value,"US tech imports US$776,157 < US$1,000,000"
+COG,Congo,2018,small_total_value,"US tech imports US$593,120 < US$1,000,000"
+COG,Congo,2019,small_total_value,"US tech imports US$655,994 < US$1,000,000"
+COG,Congo,2020,small_total_value,"US tech imports US$552,325 < US$1,000,000"
+COG,Congo,2022,small_total_value,"US tech imports US$845,689 < US$1,000,000"
+COG,Congo,2023,small_total_value,"US tech imports US$936,502 < US$1,000,000"
+COM,Comoros,2014,small_total_value,"China tech imports US$64,824 < US$1,000,000"
+COM,Comoros,2015,small_total_value,"China tech imports US$68,143 < US$1,000,000"
+COM,Comoros,2015,small_total_value,"US tech imports US$19,361 < US$1,000,000"
+COM,Comoros,2016,small_total_value,"China tech imports US$142,611 < US$1,000,000"
+COM,Comoros,2016,small_total_value,"US tech imports US$81,453 < US$1,000,000"
+COM,Comoros,2017,small_total_value,"China tech imports US$360,865 < US$1,000,000"
+COM,Comoros,2017,small_total_value,"US tech imports US$4,659 < US$1,000,000"
+COM,Comoros,2018,small_total_value,"US tech imports US$5,861 < US$1,000,000"
+COM,Comoros,2019,small_total_value,"China tech imports US$740,507 < US$1,000,000"
+COM,Comoros,2019,small_total_value,"US tech imports US$5,004 < US$1,000,000"
+COM,Comoros,2020,small_total_value,"China tech imports US$367,491 < US$1,000,000"
+COM,Comoros,2020,small_total_value,"US tech imports US$152 < US$1,000,000"
+COM,Comoros,2021,small_total_value,"China tech imports US$777,411 < US$1,000,000"
+COM,Comoros,2021,small_total_value,"US tech imports US$10,152 < US$1,000,000"
+COM,Comoros,2022,small_total_value,"China tech imports US$155,319 < US$1,000,000"
+COM,Comoros,2022,small_total_value,"US tech imports US$338 < US$1,000,000"
+COM,Comoros,2023,small_total_value,"China tech imports US$228,700 < US$1,000,000"
+COM,Comoros,2025,small_total_value,"US tech imports US$3,425 < US$1,000,000"
+CPV,Cabo Verde,2015,small_total_value,"US tech imports US$606,255 < US$1,000,000"
+CPV,Cabo Verde,2016,small_total_value,"US tech imports US$389,134 < US$1,000,000"
+CPV,Cabo Verde,2017,small_total_value,"US tech imports US$913,973 < US$1,000,000"
+CPV,Cabo Verde,2018,small_total_value,"US tech imports US$370,374 < US$1,000,000"
+CPV,Cabo Verde,2019,small_total_value,"US tech imports US$593,914 < US$1,000,000"
+CPV,Cabo Verde,2020,small_total_value,"US tech imports US$655,035 < US$1,000,000"
+CPV,Cabo Verde,2021,small_total_value,"US tech imports US$976,249 < US$1,000,000"
+CPV,Cabo Verde,2022,small_total_value,"US tech imports US$522,165 < US$1,000,000"
+CPV,Cabo Verde,2023,small_total_value,"US tech imports US$332,473 < US$1,000,000"
+CPV,Cabo Verde,2024,small_total_value,"US tech imports US$129,761 < US$1,000,000"
+CPV,Cabo Verde,2025,small_total_value,"US tech imports US$512,129 < US$1,000,000"
+CUB,Cuba,2016,small_total_value,"US tech imports US$10,937 < US$1,000,000"
+CUB,Cuba,2017,small_total_value,"US tech imports US$32,908 < US$1,000,000"
+CUB,Cuba,2018,small_total_value,"US tech imports US$479 < US$1,000,000"
+CUB,Cuba,2019,small_total_value,"US tech imports US$48,824 < US$1,000,000"
+CUB,Cuba,2020,small_total_value,"US tech imports US$31,652 < US$1,000,000"
+CUB,Cuba,2021,small_total_value,"US tech imports US$189,634 < US$1,000,000"
+CUW,Curaçao,2017,small_total_value,"China tech imports US$911,570 < US$1,000,000"
+CYM,Cayman Isds,2015,small_total_value,"US tech imports US$244,609 < US$1,000,000"
+CYM,Cayman Isds,2020,small_total_value,"China tech imports US$162,077 < US$1,000,000"
+CYM,Cayman Isds,2024,small_total_value,"China tech imports US$299,483 < US$1,000,000"
+DJI,Djibouti,2021,small_total_value,"US tech imports US$169,293 < US$1,000,000"
+DJI,Djibouti,2022,small_total_value,"US tech imports US$403,524 < US$1,000,000"
+DMA,Dominica,2016,small_total_value,"China tech imports US$601,501 < US$1,000,000"
+DMA,Dominica,2017,small_total_value,"China tech imports US$99,967 < US$1,000,000"
+DMA,Dominica,2019,small_total_value,"China tech imports US$180,530 < US$1,000,000"
+DMA,Dominica,2020,small_total_value,"China tech imports US$155,914 < US$1,000,000"
+DMA,Dominica,2022,small_total_value,"China tech imports US$302,137 < US$1,000,000"
+DMA,Dominica,2023,small_total_value,"China tech imports US$210,478 < US$1,000,000"
+GIN,Guinea,2015,small_total_value,"US tech imports US$651,002 < US$1,000,000"
+GMB,Gambia,2014,small_total_value,"China tech imports US$613,683 < US$1,000,000"
+GMB,Gambia,2014,small_total_value,"US tech imports US$136,625 < US$1,000,000"
+GMB,Gambia,2015,small_total_value,"China tech imports US$133,491 < US$1,000,000"
+GMB,Gambia,2015,small_total_value,"US tech imports US$95,955 < US$1,000,000"
+GMB,Gambia,2016,small_total_value,"China tech imports US$46,443 < US$1,000,000"
+GMB,Gambia,2016,small_total_value,"US tech imports US$89,490 < US$1,000,000"
+GMB,Gambia,2017,small_total_value,"China tech imports US$24,039 < US$1,000,000"
+GMB,Gambia,2017,small_total_value,"US tech imports US$74,890 < US$1,000,000"
+GMB,Gambia,2018,small_total_value,"China tech imports US$378,667 < US$1,000,000"
+GMB,Gambia,2018,small_total_value,"US tech imports US$57,117 < US$1,000,000"
+GMB,Gambia,2019,small_total_value,"China tech imports US$139,002 < US$1,000,000"
+GMB,Gambia,2019,small_total_value,"US tech imports US$144,192 < US$1,000,000"
+GMB,Gambia,2020,small_total_value,"China tech imports US$349,091 < US$1,000,000"
+GMB,Gambia,2020,small_total_value,"US tech imports US$32,590 < US$1,000,000"
+GMB,Gambia,2021,small_total_value,"China tech imports US$156,655 < US$1,000,000"
+GMB,Gambia,2021,small_total_value,"US tech imports US$16,745 < US$1,000,000"
+GMB,Gambia,2022,small_total_value,"US tech imports US$21,510 < US$1,000,000"
+GMB,Gambia,2023,small_total_value,"China tech imports US$197,784 < US$1,000,000"
+GMB,Gambia,2023,small_total_value,"US tech imports US$65,526 < US$1,000,000"
+GMB,Gambia,2024,small_total_value,"China tech imports US$409,069 < US$1,000,000"
+GMB,Gambia,2024,small_total_value,"US tech imports US$758,385 < US$1,000,000"
+GNB,Guinea-Bissau,2014,small_total_value,"US tech imports US$82,712 < US$1,000,000"
+GNB,Guinea-Bissau,2015,small_total_value,"China tech imports US$230,817 < US$1,000,000"
+GNB,Guinea-Bissau,2015,small_total_value,"US tech imports US$121,722 < US$1,000,000"
+GNB,Guinea-Bissau,2016,small_total_value,"China tech imports US$485,856 < US$1,000,000"
+GNB,Guinea-Bissau,2016,small_total_value,"US tech imports US$75,526 < US$1,000,000"
+GNB,Guinea-Bissau,2017,small_total_value,"US tech imports US$179,521 < US$1,000,000"
+GNB,Guinea-Bissau,2018,small_total_value,"US tech imports US$44,584 < US$1,000,000"
+GRD,Grenada,2014,small_total_value,"China tech imports US$131,939 < US$1,000,000"
+GRD,Grenada,2015,small_total_value,"China tech imports US$715,154 < US$1,000,000"
+GRD,Grenada,2016,small_total_value,"China tech imports US$44,097 < US$1,000,000"
+GRD,Grenada,2017,small_total_value,"China tech imports US$310,438 < US$1,000,000"
+GRD,Grenada,2018,small_total_value,"China tech imports US$196,320 < US$1,000,000"
+GRD,Grenada,2019,small_total_value,"China tech imports US$331,217 < US$1,000,000"
+GRD,Grenada,2020,small_total_value,"China tech imports US$426,639 < US$1,000,000"
+GRD,Grenada,2021,small_total_value,"China tech imports US$591,513 < US$1,000,000"
+GRD,Grenada,2022,small_total_value,"China tech imports US$986,350 < US$1,000,000"
+GRD,Grenada,2024,small_total_value,"China tech imports US$741,090 < US$1,000,000"
+GRL,Greenland,2014,small_total_value,"US tech imports US$259,991 < US$1,000,000"
+GRL,Greenland,2015,small_total_value,"US tech imports US$288,262 < US$1,000,000"
+GRL,Greenland,2016,small_total_value,"US tech imports US$82,183 < US$1,000,000"
+GRL,Greenland,2017,small_total_value,"US tech imports US$62,016 < US$1,000,000"
+GRL,Greenland,2018,small_total_value,"US tech imports US$14,480 < US$1,000,000"
+IRN,Iran,2014,small_total_value,"US tech imports US$441,499 < US$1,000,000"
+IRN,Iran,2015,small_total_value,"US tech imports US$103,020 < US$1,000,000"
+IRN,Iran,2016,small_total_value,"US tech imports US$675,983 < US$1,000,000"
+IRN,Iran,2017,small_total_value,"US tech imports US$11,830 < US$1,000,000"
+IRN,Iran,2018,small_total_value,"US tech imports US$8,906 < US$1,000,000"
+IRN,Iran,2021,small_total_value,"US tech imports US$455,344 < US$1,000,000"
+IRQ,Iraq,2021,small_total_value,"US tech imports US$3,265 < US$1,000,000"
+IRQ,Iraq,2022,small_total_value,"US tech imports US$115,027 < US$1,000,000"
+IRQ,Iraq,2023,small_total_value,"US tech imports US$79,635 < US$1,000,000"
+IRQ,Iraq,2024,small_total_value,"US tech imports US$594,758 < US$1,000,000"
+KGZ,Kyrgyzstan,2017,small_total_value,"US tech imports US$680,804 < US$1,000,000"
+KGZ,Kyrgyzstan,2018,small_total_value,"US tech imports US$725,109 < US$1,000,000"
+KGZ,Kyrgyzstan,2019,small_total_value,"US tech imports US$869,862 < US$1,000,000"
+KGZ,Kyrgyzstan,2020,small_total_value,"US tech imports US$381,263 < US$1,000,000"
+KGZ,Kyrgyzstan,2021,small_total_value,"US tech imports US$982,804 < US$1,000,000"
+KHM,Cambodia,2015,small_total_value,"US tech imports US$857,271 < US$1,000,000"
+KHM,Cambodia,2018,small_total_value,"US tech imports US$973,638 < US$1,000,000"
+KHM,Cambodia,2020,small_total_value,"US tech imports US$844,287 < US$1,000,000"
+KHM,Cambodia,2021,small_total_value,"US tech imports US$543,720 < US$1,000,000"
+KIR,Kiribati,2014,small_total_value,"China tech imports US$50,145 < US$1,000,000"
+KIR,Kiribati,2014,small_total_value,"US tech imports US$81,004 < US$1,000,000"
+KIR,Kiribati,2015,small_total_value,"US tech imports US$148,445 < US$1,000,000"
+KIR,Kiribati,2016,small_total_value,"China tech imports US$49,223 < US$1,000,000"
+KIR,Kiribati,2016,small_total_value,"US tech imports US$77,371 < US$1,000,000"
+KIR,Kiribati,2017,small_total_value,"China tech imports US$101,858 < US$1,000,000"
+KIR,Kiribati,2017,small_total_value,"US tech imports US$206,961 < US$1,000,000"
+KIR,Kiribati,2018,small_total_value,"China tech imports US$196,257 < US$1,000,000"
+KIR,Kiribati,2018,small_total_value,"US tech imports US$146,519 < US$1,000,000"
+KIR,Kiribati,2020,small_total_value,"US tech imports US$45,296 < US$1,000,000"
+KIR,Kiribati,2021,small_total_value,"US tech imports US$130,943 < US$1,000,000"
+KNA,Saint Kitts and Nevis,2016,small_total_value,"China tech imports US$469,073 < US$1,000,000"
+LAO,Lao People's Dem. Rep.,2016,small_total_value,"US tech imports US$418,771 < US$1,000,000"
+LAO,Lao People's Dem. Rep.,2017,small_total_value,"US tech imports US$505,148 < US$1,000,000"
+LAO,Lao People's Dem. Rep.,2018,small_total_value,"US tech imports US$161,241 < US$1,000,000"
+LAO,Lao People's Dem. Rep.,2019,small_total_value,"US tech imports US$144,593 < US$1,000,000"
+LAO,Lao People's Dem. Rep.,2020,small_total_value,"US tech imports US$208,266 < US$1,000,000"
+LAO,Lao People's Dem. Rep.,2022,small_total_value,"US tech imports US$200,284 < US$1,000,000"
+LAO,Lao People's Dem. Rep.,2023,small_total_value,"US tech imports US$315,900 < US$1,000,000"
+LBR,Liberia,2023,small_total_value,"US tech imports US$679,146 < US$1,000,000"
+LCA,Saint Lucia,2016,small_total_value,"China tech imports US$309,760 < US$1,000,000"
+LCA,Saint Lucia,2017,small_total_value,"China tech imports US$489,043 < US$1,000,000"
+LSO,Lesotho,2014,small_total_value,"US tech imports US$44,733 < US$1,000,000"
+LSO,Lesotho,2015,small_total_value,"US tech imports US$182,791 < US$1,000,000"
+LSO,Lesotho,2016,small_total_value,"US tech imports US$304,707 < US$1,000,000"
+LSO,Lesotho,2019,small_total_value,"US tech imports US$546,784 < US$1,000,000"
+LSO,Lesotho,2020,small_total_value,"US tech imports US$478,245 < US$1,000,000"
+LSO,Lesotho,2021,small_total_value,"US tech imports US$922,830 < US$1,000,000"
+LSO,Lesotho,2022,small_total_value,"US tech imports US$124,808 < US$1,000,000"
+LSO,Lesotho,2023,small_total_value,"US tech imports US$174,708 < US$1,000,000"
+LSO,Lesotho,2024,small_total_value,"US tech imports US$90,918 < US$1,000,000"
+MDA,Rep. of Moldova,2020,small_total_value,"US tech imports US$786,387 < US$1,000,000"
+MDG,Madagascar,2018,small_total_value,"US tech imports US$530,081 < US$1,000,000"
+MDG,Madagascar,2019,small_total_value,"US tech imports US$504,115 < US$1,000,000"
+MLT,Malta,2017,small_total_value,"US tech imports US$860,529 < US$1,000,000"
+MMR,Myanmar,2024,small_total_value,"US tech imports US$617,817 < US$1,000,000"
+MMR,Myanmar,2025,small_total_value,"US tech imports US$395,696 < US$1,000,000"
+MNE,Montenegro,2014,small_total_value,"US tech imports US$815,106 < US$1,000,000"
+MNE,Montenegro,2016,small_total_value,"US tech imports US$919,642 < US$1,000,000"
+MNE,Montenegro,2017,small_total_value,"US tech imports US$664,090 < US$1,000,000"
+MNE,Montenegro,2019,small_total_value,"US tech imports US$730,868 < US$1,000,000"
+MNE,Montenegro,2022,small_total_value,"US tech imports US$641,226 < US$1,000,000"
+MRT,Mauritania,2014,small_total_value,"US tech imports US$418,049 < US$1,000,000"
+MRT,Mauritania,2015,small_total_value,"US tech imports US$313,977 < US$1,000,000"
+MRT,Mauritania,2016,small_total_value,"US tech imports US$897,252 < US$1,000,000"
+MRT,Mauritania,2019,small_total_value,"US tech imports US$626,268 < US$1,000,000"
+MRT,Mauritania,2020,small_total_value,"US tech imports US$405,325 < US$1,000,000"
+MRT,Mauritania,2021,small_total_value,"US tech imports US$417,353 < US$1,000,000"
+MRT,Mauritania,2022,small_total_value,"US tech imports US$150,298 < US$1,000,000"
+MRT,Mauritania,2023,small_total_value,"US tech imports US$772,888 < US$1,000,000"
+MRT,Mauritania,2024,small_total_value,"US tech imports US$569,094 < US$1,000,000"
+MSR,Montserrat,2014,small_total_value,"China tech imports US$147,703 < US$1,000,000"
+MSR,Montserrat,2015,small_total_value,"China tech imports US$7,242 < US$1,000,000"
+MSR,Montserrat,2015,small_total_value,"US tech imports US$904,167 < US$1,000,000"
+MSR,Montserrat,2016,small_total_value,"US tech imports US$783,071 < US$1,000,000"
+MSR,Montserrat,2017,small_total_value,"China tech imports US$34,393 < US$1,000,000"
+MSR,Montserrat,2017,small_total_value,"US tech imports US$686,996 < US$1,000,000"
+MSR,Montserrat,2018,small_total_value,"China tech imports US$924 < US$1,000,000"
+MSR,Montserrat,2018,small_total_value,"US tech imports US$642,079 < US$1,000,000"
+MSR,Montserrat,2019,small_total_value,"US tech imports US$813,292 < US$1,000,000"
+MSR,Montserrat,2020,small_total_value,"China tech imports US$127,064 < US$1,000,000"
+MSR,Montserrat,2020,small_total_value,"US tech imports US$782,677 < US$1,000,000"
+MSR,Montserrat,2021,small_total_value,"China tech imports US$6,365 < US$1,000,000"
+MSR,Montserrat,2022,small_total_value,"China tech imports US$25,457 < US$1,000,000"
+MSR,Montserrat,2023,small_total_value,"China tech imports US$40,914 < US$1,000,000"
+MSR,Montserrat,2024,small_total_value,"China tech imports US$40,360 < US$1,000,000"
+MSR,Montserrat,2024,small_total_value,"US tech imports US$693,183 < US$1,000,000"
+MWI,Malawi,2022,small_total_value,"US tech imports US$503,708 < US$1,000,000"
+NCL,New Caledonia,2015,small_total_value,"US tech imports US$957,416 < US$1,000,000"
+PLW,Palau,2014,small_total_value,"China tech imports US$119,368 < US$1,000,000"
+PLW,Palau,2015,small_total_value,"China tech imports US$102,262 < US$1,000,000"
+PLW,Palau,2016,small_total_value,"China tech imports US$35,779 < US$1,000,000"
+PLW,Palau,2016,small_total_value,"US tech imports US$993,081 < US$1,000,000"
+PLW,Palau,2017,small_total_value,"China tech imports US$103,160 < US$1,000,000"
+PLW,Palau,2018,small_total_value,"China tech imports US$55,922 < US$1,000,000"
+PSE,State of Palestine,2014,small_total_value,"US tech imports US$559,482 < US$1,000,000"
+PSE,State of Palestine,2017,small_total_value,"US tech imports US$218,089 < US$1,000,000"
+PSE,State of Palestine,2018,small_total_value,"US tech imports US$727,603 < US$1,000,000"
+PSE,State of Palestine,2019,small_total_value,"US tech imports US$756,272 < US$1,000,000"
+SDN,Sudan,2015,small_total_value,"US tech imports US$241,110 < US$1,000,000"
+SDN,Sudan,2016,small_total_value,"US tech imports US$204,743 < US$1,000,000"
+SDN,Sudan,2017,small_total_value,"US tech imports US$625,713 < US$1,000,000"
+SEN,Senegal,2018,small_total_value,"US tech imports US$850,193 < US$1,000,000"
+SLB,Solomon Isds,2015,small_total_value,"US tech imports US$828,215 < US$1,000,000"
+SLB,Solomon Isds,2017,small_total_value,"US tech imports US$952,641 < US$1,000,000"
+SLE,Sierra Leone,2014,small_total_value,"China tech imports US$342,335 < US$1,000,000"
+SLE,Sierra Leone,2015,small_total_value,"US tech imports US$449,106 < US$1,000,000"
+SLE,Sierra Leone,2016,small_total_value,"China tech imports US$154,570 < US$1,000,000"
+SSD,South Sudan,2025,small_total_value,"China tech imports US$20,700 < US$1,000,000"
+SSD,South Sudan,2025,small_total_value,"US tech imports US$159,743 < US$1,000,000"
+STP,Sao Tome and Principe,2014,small_total_value,"China tech imports US$622,473 < US$1,000,000"
+STP,Sao Tome and Principe,2014,small_total_value,"US tech imports US$121,023 < US$1,000,000"
+STP,Sao Tome and Principe,2015,small_total_value,"China tech imports US$157,995 < US$1,000,000"
+STP,Sao Tome and Principe,2015,small_total_value,"US tech imports US$45,539 < US$1,000,000"
+STP,Sao Tome and Principe,2016,small_total_value,"China tech imports US$361,235 < US$1,000,000"
+STP,Sao Tome and Principe,2016,small_total_value,"US tech imports US$31,902 < US$1,000,000"
+STP,Sao Tome and Principe,2017,small_total_value,"China tech imports US$20,345 < US$1,000,000"
+STP,Sao Tome and Principe,2017,small_total_value,"US tech imports US$73,289 < US$1,000,000"
+STP,Sao Tome and Principe,2018,small_total_value,"China tech imports US$164,169 < US$1,000,000"
+STP,Sao Tome and Principe,2018,small_total_value,"US tech imports US$36,461 < US$1,000,000"
+STP,Sao Tome and Principe,2019,small_total_value,"China tech imports US$212,600 < US$1,000,000"
+STP,Sao Tome and Principe,2019,small_total_value,"US tech imports US$55,490 < US$1,000,000"
+STP,Sao Tome and Principe,2020,small_total_value,"China tech imports US$600,122 < US$1,000,000"
+STP,Sao Tome and Principe,2020,small_total_value,"US tech imports US$1,766 < US$1,000,000"
+STP,Sao Tome and Principe,2021,small_total_value,"China tech imports US$642,724 < US$1,000,000"
+STP,Sao Tome and Principe,2021,small_total_value,"US tech imports US$191,672 < US$1,000,000"
+STP,Sao Tome and Principe,2022,small_total_value,"China tech imports US$58,803 < US$1,000,000"
+STP,Sao Tome and Principe,2022,small_total_value,"US tech imports US$76,084 < US$1,000,000"
+STP,Sao Tome and Principe,2023,small_total_value,"China tech imports US$661,416 < US$1,000,000"
+STP,Sao Tome and Principe,2023,small_total_value,"US tech imports US$84,565 < US$1,000,000"
+STP,Sao Tome and Principe,2024,small_total_value,"China tech imports US$134,111 < US$1,000,000"
+STP,Sao Tome and Principe,2024,small_total_value,"US tech imports US$180,395 < US$1,000,000"
+STP,Sao Tome and Principe,2025,small_total_value,"China tech imports US$271,395 < US$1,000,000"
+STP,Sao Tome and Principe,2025,small_total_value,"US tech imports US$1,159 < US$1,000,000"
+SUR,Suriname,2015,small_total_value,"China tech imports US$869,497 < US$1,000,000"
+SUR,Suriname,2016,small_total_value,"China tech imports US$678,497 < US$1,000,000"
+SWZ,Eswatini,2014,small_total_value,"China tech imports US$918,228 < US$1,000,000"
+SWZ,Eswatini,2014,small_total_value,"US tech imports US$279,455 < US$1,000,000"
+SWZ,Eswatini,2016,small_total_value,"US tech imports US$302,324 < US$1,000,000"
+SWZ,Eswatini,2017,small_total_value,"US tech imports US$500,797 < US$1,000,000"
+SWZ,Eswatini,2018,small_total_value,"US tech imports US$394,869 < US$1,000,000"
+SWZ,Eswatini,2019,small_total_value,"US tech imports US$617,136 < US$1,000,000"
+SWZ,Eswatini,2020,small_total_value,"US tech imports US$332,188 < US$1,000,000"
+SWZ,Eswatini,2021,small_total_value,"US tech imports US$472,471 < US$1,000,000"
+SWZ,Eswatini,2022,small_total_value,"US tech imports US$616,206 < US$1,000,000"
+SWZ,Eswatini,2023,small_total_value,"US tech imports US$743,970 < US$1,000,000"
+SYC,Seychelles,2015,small_total_value,"China tech imports US$983,100 < US$1,000,000"
+SYC,Seychelles,2016,small_total_value,"China tech imports US$946,284 < US$1,000,000"
+SYC,Seychelles,2017,small_total_value,"US tech imports US$937,654 < US$1,000,000"
+SYC,Seychelles,2020,small_total_value,"US tech imports US$520,446 < US$1,000,000"
+SYC,Seychelles,2021,small_total_value,"US tech imports US$868,350 < US$1,000,000"
+SYC,Seychelles,2024,small_total_value,"US tech imports US$723,609 < US$1,000,000"
+SYC,Seychelles,2025,small_total_value,"US tech imports US$368,536 < US$1,000,000"
+TGO,Togo,2014,small_total_value,"US tech imports US$157,684 < US$1,000,000"
+TGO,Togo,2015,small_total_value,"US tech imports US$109,630 < US$1,000,000"
+TGO,Togo,2016,small_total_value,"US tech imports US$235,685 < US$1,000,000"
+TGO,Togo,2017,small_total_value,"US tech imports US$455,259 < US$1,000,000"
+TGO,Togo,2019,small_total_value,"US tech imports US$232,648 < US$1,000,000"
+TGO,Togo,2021,small_total_value,"US tech imports US$483,545 < US$1,000,000"
+TGO,Togo,2022,small_total_value,"US tech imports US$371,451 < US$1,000,000"
+TJK,Tajikistan,2014,small_total_value,"US tech imports US$721,881 < US$1,000,000"
+TJK,Tajikistan,2016,small_total_value,"US tech imports US$895,124 < US$1,000,000"
+TJK,Tajikistan,2017,small_total_value,"US tech imports US$243,508 < US$1,000,000"
+TJK,Tajikistan,2018,small_total_value,"US tech imports US$233,827 < US$1,000,000"
+TJK,Tajikistan,2019,small_total_value,"US tech imports US$162,860 < US$1,000,000"
+TJK,Tajikistan,2021,small_total_value,"US tech imports US$148,316 < US$1,000,000"
+TLS,Timor-Leste,2017,small_total_value,"US tech imports US$399,185 < US$1,000,000"
+TLS,Timor-Leste,2018,small_total_value,"US tech imports US$282,943 < US$1,000,000"
+TLS,Timor-Leste,2019,small_total_value,"US tech imports US$351,276 < US$1,000,000"
+TLS,Timor-Leste,2020,small_total_value,"US tech imports US$673,702 < US$1,000,000"
+TLS,Timor-Leste,2021,small_total_value,"US tech imports US$212,448 < US$1,000,000"
+TLS,Timor-Leste,2022,small_total_value,"US tech imports US$160,500 < US$1,000,000"
+TLS,Timor-Leste,2023,small_total_value,"US tech imports US$160,596 < US$1,000,000"
+TON,Tonga,2014,small_total_value,"US tech imports US$772,610 < US$1,000,000"
+TON,Tonga,2017,small_total_value,"China tech imports US$750,514 < US$1,000,000"
+TON,Tonga,2017,small_total_value,"US tech imports US$383,889 < US$1,000,000"
+TON,Tonga,2018,small_total_value,"US tech imports US$494,853 < US$1,000,000"
+TON,Tonga,2019,small_total_value,"US tech imports US$583,553 < US$1,000,000"
+TON,Tonga,2020,small_total_value,"China tech imports US$576,750 < US$1,000,000"
+TON,Tonga,2020,small_total_value,"US tech imports US$229,217 < US$1,000,000"
+TON,Tonga,2023,small_total_value,"US tech imports US$518,672 < US$1,000,000"
+TON,Tonga,2025,small_total_value,"US tech imports US$785,655 < US$1,000,000"
+WSM,Samoa,2014,small_total_value,"US tech imports US$515,533 < US$1,000,000"
+WSM,Samoa,2016,small_total_value,"US tech imports US$880,836 < US$1,000,000"
+WSM,Samoa,2017,small_total_value,"China tech imports US$582,234 < US$1,000,000"
+WSM,Samoa,2018,small_total_value,"US tech imports US$866,305 < US$1,000,000"
+WSM,Samoa,2019,small_total_value,"China tech imports US$690,931 < US$1,000,000"
+WSM,Samoa,2021,small_total_value,"US tech imports US$784,600 < US$1,000,000"
+WSM,Samoa,2022,small_total_value,"US tech imports US$888,379 < US$1,000,000"
+WSM,Samoa,2023,small_total_value,"US tech imports US$468,109 < US$1,000,000"
+WSM,Samoa,2024,small_total_value,"US tech imports US$614,983 < US$1,000,000"
+WSM,Samoa,2025,small_total_value,"US tech imports US$499,930 < US$1,000,000"
+YEM,Yemen,2015,small_total_value,"US tech imports US$492,910 < US$1,000,000"
+YEM,Yemen,2019,small_total_value,"US tech imports US$73,290 < US$1,000,000"
+YEM,Yemen,2023,small_total_value,"US tech imports US$16,758 < US$1,000,000"
+YEM,Yemen,2024,small_total_value,"US tech imports US$9,660 < US$1,000,000"
+ABW,Aruba,2014,small_category_value,"HS 8471: China=6534.0, US=9524474.0"
+ABW,Aruba,2014,small_category_value,"HS 8542: China=929.0, US=414277.0"
+ABW,Aruba,2015,small_category_value,"HS 8471: China=2380.0, US=8723150.0"
+ABW,Aruba,2021,small_category_value,"HS 8542: China=5443.575, US=259556.98"
+ABW,Aruba,2023,small_category_value,"HS 8542: China=4951.397, US=314676.532"
+AFG,Afghanistan,2018,small_category_value,"HS 8517: China=8977450.23, US=371.45"
+ALB,Albania,2014,small_category_value,"HS 8541: China=8914.0, US=nan"
+ALB,Albania,2014,small_category_value,"HS 8542: China=1713.0, US=1083.0"
+ALB,Albania,2015,small_category_value,"HS 8542: China=232355.0, US=5870.0"
+ALB,Albania,2016,small_category_value,"HS 8542: China=32702.0, US=3305.0"
+ALB,Albania,2017,small_category_value,"HS 8542: China=11841.297, US=3105.457"
+ALB,Albania,2018,small_category_value,"HS 8542: China=45512.095, US=174.674"
+ALB,Albania,2019,small_category_value,"HS 8542: China=30440.111, US=2193.389"
+ALB,Albania,2020,small_category_value,"HS 8541: China=3822073.427, US=364.261"
+ALB,Albania,2020,small_category_value,"HS 8542: China=183993.896, US=1716.594"
+ALB,Albania,2021,small_category_value,"HS 8541: China=3932955.805, US=997.999"
+ALB,Albania,2021,small_category_value,"HS 8542: China=225426.198, US=4916.611"
+ALB,Albania,2022,small_category_value,"HS 8471: China=nan, US=1533.563"
+ALB,Albania,2023,small_category_value,"HS 8541: China=83170697.611, US=2900.384"
+ALB,Albania,2024,small_category_value,"HS 8541: China=52029028.723, US=2437.814"
+AND,Andorra,2014,small_category_value,"HS 8542: China=1149.574, US=nan"
+AND,Andorra,2016,small_category_value,"HS 8542: China=2472.059, US=nan"
+AND,Andorra,2024,small_category_value,"HS 8542: China=6513.374, US=nan"
+ARM,Armenia,2020,small_category_value,"HS 8541: China=29172484.28, US=7657.1"
+ARM,Armenia,2020,small_category_value,"HS 8542: China=361620.4, US=6554.28"
+ARM,Armenia,2025,small_category_value,"HS 8541: China=45685302.77, US=7728.18"
+ATG,Antigua and Barbuda,2014,small_category_value,"HS 8541: China=4884.0, US=558539.0"
+ATG,Antigua and Barbuda,2016,small_category_value,"HS 8542: China=7195.0, US=9136.0"
+ATG,Antigua and Barbuda,2017,small_category_value,"HS 8542: China=4091.689, US=33071.767"
+ATG,Antigua and Barbuda,2018,small_category_value,"HS 8542: China=1299.028, US=20860.512"
+ATG,Antigua and Barbuda,2021,small_category_value,"HS 8542: China=4.6, US=10020.448"
+ATG,Antigua and Barbuda,2022,small_category_value,"HS 8542: China=1556.537, US=53828.756"
+ATG,Antigua and Barbuda,2024,small_category_value,"HS 8542: China=536.322, US=130729.411"
+BDI,Burundi,2015,small_category_value,"HS 8541: China=427509.0, US=6064.0"
+BDI,Burundi,2015,small_category_value,"HS 8542: China=2621.0, US=nan"
+BDI,Burundi,2016,small_category_value,"HS 8541: China=1208696.0, US=6024.0"
+BDI,Burundi,2017,small_category_value,"HS 8541: China=1050484.678, US=2578.814"
+BDI,Burundi,2019,small_category_value,"HS 8541: China=1035525.001, US=1190.468"
+BDI,Burundi,2019,small_category_value,"HS 8542: China=2617.402, US=1429.418"
+BDI,Burundi,2020,small_category_value,"HS 8541: China=2323590.452, US=7290.118"
+BDI,Burundi,2020,small_category_value,"HS 8542: China=16986.129, US=7449.36"
+BDI,Burundi,2021,small_category_value,"HS 8541: China=551073.074, US=3110.593"
+BDI,Burundi,2021,small_category_value,"HS 8542: China=4005.418, US=35808.037"
+BDI,Burundi,2022,small_category_value,"HS 8542: China=3609.161, US=10983.766"
+BDI,Burundi,2023,small_category_value,"HS 8541: China=1209051.823, US=653.815"
+BDI,Burundi,2023,small_category_value,"HS 8542: China=6267.176, US=646.321"
+BEN,Benin,2014,small_category_value,"HS 8542: China=nan, US=847.0"
+BEN,Benin,2015,small_category_value,"HS 8541: China=5463855.069, US=3036.583"
+BEN,Benin,2015,small_category_value,"HS 8542: China=nan, US=1327.607"
+BEN,Benin,2016,small_category_value,"HS 8542: China=968.334, US=1379.892"
+BEN,Benin,2017,small_category_value,"HS 8541: China=2213186.741, US=5247.433"
+BEN,Benin,2017,small_category_value,"HS 8542: China=243.373, US=nan"
+BEN,Benin,2018,small_category_value,"HS 8542: China=69.566, US=nan"
+BEN,Benin,2019,small_category_value,"HS 8542: China=364.45, US=nan"
+BEN,Benin,2020,small_category_value,"HS 8542: China=1676.402, US=697.632"
+BEN,Benin,2021,small_category_value,"HS 8542: China=10046.294, US=120.106"
+BEN,Benin,2023,small_category_value,"HS 8542: China=3095.302, US=nan"
+BEN,Benin,2024,small_category_value,"HS 8541: China=4516633.032, US=7556.342"
+BEN,Benin,2024,small_category_value,"HS 8542: China=7935.036, US=2091.452"
+BHS,Bahamas,2014,small_category_value,"HS 8542: China=108.0, US=371049.0"
+BHS,Bahamas,2015,small_category_value,"HS 8541: China=3236.0, US=1680629.0"
+BHS,Bahamas,2015,small_category_value,"HS 8542: China=726.0, US=824649.0"
+BHS,Bahamas,2016,small_category_value,"HS 8471: China=2665.0, US=16145445.0"
+BHS,Bahamas,2017,small_category_value,"HS 8541: China=5536.01, US=1936723.12"
+BHS,Bahamas,2017,small_category_value,"HS 8542: China=522.0, US=1105115.46"
+BHS,Bahamas,2018,small_category_value,"HS 8471: China=5725.92, US=16964356.94"
+BHS,Bahamas,2018,small_category_value,"HS 8541: China=173.99, US=1922172.8"
+BHS,Bahamas,2021,small_category_value,"HS 8542: China=1952.0, US=279409.0"
+BHS,Bahamas,2022,small_category_value,"HS 8542: China=9236.0, US=408217.0"
+BHS,Bahamas,2024,small_category_value,"HS 8542: China=343.0, US=364997.0"
+BIH,Bosnia Herzegovina,2016,small_category_value,"HS 8541: China=1614153.0, US=8286.0"
+BIH,Bosnia Herzegovina,2017,small_category_value,"HS 8541: China=1908684.65, US=9437.92"
+BIH,Bosnia Herzegovina,2021,small_category_value,"HS 8541: China=9880880.44, US=7956.5"
+BIH,Bosnia Herzegovina,2025,small_category_value,"HS 8541: China=89729502.507, US=3872.947"
+BLZ,Belize,2014,small_category_value,"HS 8541: China=1656.0, US=373082.0"
+BLZ,Belize,2014,small_category_value,"HS 8542: China=5831.0, US=425830.0"
+BLZ,Belize,2015,small_category_value,"HS 8542: China=5750.0, US=406295.0"
+BLZ,Belize,2016,small_category_value,"HS 8542: China=1720.0, US=319691.0"
+BLZ,Belize,2017,small_category_value,"HS 8542: China=4744.525, US=248003.85"
+BLZ,Belize,2018,small_category_value,"HS 8542: China=194.665, US=268133.775"
+BLZ,Belize,2020,small_category_value,"HS 8542: China=586.585, US=93458.33"
+BLZ,Belize,2022,small_category_value,"HS 8542: China=8307.59, US=121936.65"
+BLZ,Belize,2025,small_category_value,"HS 8542: China=8647.965, US=115738.565"
+BMU,Bermuda,2014,small_category_value,"HS 8541: China=244.0, US=597625.0"
+BMU,Bermuda,2015,small_category_value,"HS 8542: China=130.0, US=76191.0"
+BMU,Bermuda,2016,small_category_value,"HS 8542: China=661.0, US=226946.0"
+BMU,Bermuda,2017,small_category_value,"HS 8541: China=915.0, US=229119.77"
+BMU,Bermuda,2018,small_category_value,"HS 8542: China=1255.65, US=112314.8"
+BMU,Bermuda,2019,small_category_value,"HS 8542: China=787.55, US=53647.49"
+BMU,Bermuda,2021,small_category_value,"HS 8542: China=1098.2, US=74998.09"
+BMU,Bermuda,2022,small_category_value,"HS 8542: China=447.38, US=140452.01"
+BMU,Bermuda,2023,small_category_value,"HS 8541: China=11.11, US=1307398.61"
+BMU,Bermuda,2024,small_category_value,"HS 8541: China=556.44, US=1682828.07"
+BMU,Bermuda,2024,small_category_value,"HS 8542: China=75.46, US=63480.72"
+BMU,Bermuda,2025,small_category_value,"HS 8541: China=214.77, US=1547875.89"
+BMU,Bermuda,2025,small_category_value,"HS 8542: China=1395.16, US=86467.29"
+BRB,Barbados,2020,small_category_value,"HS 8542: China=855.5, US=111290.5"
+BRB,Barbados,2021,small_category_value,"HS 8542: China=2108.0, US=154959.5"
+BRB,Barbados,2022,small_category_value,"HS 8542: China=233.5, US=87344.5"
+BRB,Barbados,2023,small_category_value,"HS 8542: China=1146.0, US=204642.0"
+BRB,Barbados,2024,small_category_value,"HS 8542: China=7620.5, US=178698.5"
+BRB,Barbados,2025,small_category_value,"HS 8542: China=299.5, US=283832.0"
+BRN,Brunei Darussalam,2015,small_category_value,"HS 8541: China=9891.0, US=6270.0"
+BRN,Brunei Darussalam,2016,small_category_value,"HS 8541: China=9307.0, US=19743.0"
+BRN,Brunei Darussalam,2021,small_category_value,"HS 8542: China=8547.4, US=81441.62"
+BRN,Brunei Darussalam,2023,small_category_value,"HS 8541: China=179396.662, US=4587.219"
+BRN,Brunei Darussalam,2025,small_category_value,"HS 8541: China=3734262.488, US=1673.054"
+BTN,Bhutan,2018,small_category_value,"HS 8542: China=5259.994, US=nan"
+BTN,Bhutan,2020,small_category_value,"HS 8542: China=390.919, US=nan"
+BTN,Bhutan,2022,small_category_value,"HS 8542: China=4966.255, US=97387.443"
+BTN,Bhutan,2023,small_category_value,"HS 8542: China=10483.791, US=172.379"
+BTN,Bhutan,2025,small_category_value,"HS 8542: China=74959.201, US=126.469"
+BWA,Botswana,2014,small_category_value,"HS 8542: China=1669.421, US=356782.046"
+BWA,Botswana,2015,small_category_value,"HS 8542: China=1844.55, US=51456.065"
+BWA,Botswana,2016,small_category_value,"HS 8541: China=318590.0, US=9177.0"
+BWA,Botswana,2021,small_category_value,"HS 8541: China=1091936.078, US=4945.589"
+BWA,Botswana,2022,small_category_value,"HS 8541: China=2267329.547, US=1076.222"
+BWA,Botswana,2023,small_category_value,"HS 8542: China=50500.67, US=9578.532"
+CAF,Central African Rep.,2016,small_category_value,"HS 8541: China=451863.0, US=813.0"
+CAF,Central African Rep.,2018,small_category_value,"HS 8542: China=229.0, US=nan"
+CAF,Central African Rep.,2020,small_category_value,"HS 8542: China=nan, US=4648.883"
+CAF,Central African Rep.,2021,small_category_value,"HS 8542: China=822.891, US=nan"
+CAF,Central African Rep.,2022,small_category_value,"HS 8542: China=61.961, US=nan"
+CAF,Central African Rep.,2024,small_category_value,"HS 8542: China=8181.93, US=nan"
+CIV,Côte d'Ivoire,2018,small_category_value,"HS 8541: China=7194562.106, US=7821.731"
+CIV,Côte d'Ivoire,2020,small_category_value,"HS 8541: China=8986936.32, US=5151.91"
+COD,Dem. Rep. of the Congo,2022,small_category_value,"HS 8541: China=882216.987, US=3337.987"
+COD,Dem. Rep. of the Congo,2024,small_category_value,"HS 8541: China=17654329.192, US=9846.757"
+COG,Congo,2014,small_category_value,"HS 8541: China=5528757.748, US=8537.084"
+COG,Congo,2016,small_category_value,"HS 8541: China=106872.283, US=2204.18"
+COG,Congo,2017,small_category_value,"HS 8542: China=9599.817, US=81451.781"
+COG,Congo,2019,small_category_value,"HS 8542: China=4096.319, US=47363.143"
+COG,Congo,2021,small_category_value,"HS 8541: China=92032.5, US=1443.7"
+COG,Congo,2022,small_category_value,"HS 8542: China=6211.547, US=140162.89"
+COM,Comoros,2014,small_category_value,"HS 8542: China=53.803, US=nan"
+COM,Comoros,2015,small_category_value,"HS 8517: China=9047.548, US=nan"
+COM,Comoros,2015,small_category_value,"HS 8542: China=351.546, US=nan"
+COM,Comoros,2016,small_category_value,"HS 8517: China=3450.561, US=81453.354"
+COM,Comoros,2016,small_category_value,"HS 8541: China=2041.21, US=nan"
+COM,Comoros,2017,small_category_value,"HS 8471: China=2501.387, US=4659.319"
+COM,Comoros,2018,small_category_value,"HS 8471: China=129531.051, US=5861.059"
+COM,Comoros,2018,small_category_value,"HS 8542: China=6773.923, US=nan"
+COM,Comoros,2019,small_category_value,"HS 8471: China=119560.39, US=2631.658"
+COM,Comoros,2019,small_category_value,"HS 8517: China=611517.789, US=2372.225"
+COM,Comoros,2019,small_category_value,"HS 8541: China=1135.859, US=nan"
+COM,Comoros,2019,small_category_value,"HS 8542: China=8292.717, US=nan"
+COM,Comoros,2020,small_category_value,"HS 8517: China=290919.063, US=152.068"
+COM,Comoros,2020,small_category_value,"HS 8542: China=3615.246, US=nan"
+COM,Comoros,2021,small_category_value,"HS 8542: China=4652.437, US=nan"
+COM,Comoros,2022,small_category_value,"HS 8517: China=13456.952, US=338.003"
+COM,Comoros,2025,small_category_value,"HS 8542: China=2555.022, US=3425.282"
+CPV,Cabo Verde,2014,small_category_value,"HS 8542: China=954.044, US=nan"
+CPV,Cabo Verde,2015,small_category_value,"HS 8542: China=3116.489, US=1398.191"
+CPV,Cabo Verde,2016,small_category_value,"HS 8541: China=96497.0, US=904.0"
+CPV,Cabo Verde,2016,small_category_value,"HS 8542: China=202.0, US=nan"
+CPV,Cabo Verde,2017,small_category_value,"HS 8541: China=342487.083, US=2807.995"
+CPV,Cabo Verde,2017,small_category_value,"HS 8542: China=4186.176, US=nan"
+CPV,Cabo Verde,2018,small_category_value,"HS 8541: China=468489.88, US=587.05"
+CPV,Cabo Verde,2018,small_category_value,"HS 8542: China=2139.53, US=nan"
+CPV,Cabo Verde,2019,small_category_value,"HS 8541: China=60917.096, US=710.542"
+CPV,Cabo Verde,2019,small_category_value,"HS 8542: China=8794.267, US=179.359"
+CPV,Cabo Verde,2021,small_category_value,"HS 8541: China=110943.643, US=5110.37"
+CPV,Cabo Verde,2021,small_category_value,"HS 8542: China=608.176, US=28.385"
+CPV,Cabo Verde,2022,small_category_value,"HS 8542: China=491.411, US=1003.318"
+CPV,Cabo Verde,2023,small_category_value,"HS 8542: China=3639.117, US=528.759"
+CPV,Cabo Verde,2024,small_category_value,"HS 8542: China=1116.57, US=145.848"
+CPV,Cabo Verde,2025,small_category_value,"HS 8542: China=1564.849, US=125.067"
+CUB,Cuba,2016,small_category_value,"HS 8471: China=57781935.44, US=2200.0"
+CUB,Cuba,2016,small_category_value,"HS 8517: China=65212623.8, US=6615.34"
+CUB,Cuba,2016,small_category_value,"HS 8541: China=29860268.98, US=491.0"
+CUB,Cuba,2016,small_category_value,"HS 8542: China=33061063.76, US=1630.73"
+CUB,Cuba,2017,small_category_value,"HS 8471: China=28051372.15, US=1210.84"
+CUB,Cuba,2018,small_category_value,"HS 8471: China=47578046.14, US=309.62"
+CUB,Cuba,2018,small_category_value,"HS 8517: China=44258768.18, US=169.62"
+CUB,Cuba,2019,small_category_value,"HS 8517: China=74547495.93, US=52.5"
+CUB,Cuba,2020,small_category_value,"HS 8517: China=40595453.42, US=2686.38"
+CUB,Cuba,2021,small_category_value,"HS 8517: China=83160765.13, US=819.58"
+CUW,Curaçao,2017,small_category_value,"HS 8542: China=949.726, US=164023.35"
+CUW,Curaçao,2018,small_category_value,"HS 8542: China=55.866, US=114413.192"
+CUW,Curaçao,2019,small_category_value,"HS 8542: China=3854.71, US=258880.069"
+CUW,Curaçao,2020,small_category_value,"HS 8542: China=558.659, US=178044.623"
+CYM,Cayman Isds,2020,small_category_value,"HS 8517: China=9885.605, US=17459413.035"
+CYM,Cayman Isds,2020,small_category_value,"HS 8542: China=8343.287, US=1392311.849"
+CYM,Cayman Isds,2021,small_category_value,"HS 8541: China=6464.331, US=4085384.376"
+CYM,Cayman Isds,2021,small_category_value,"HS 8542: China=5429.723, US=1461502.489"
+CYM,Cayman Isds,2022,small_category_value,"HS 8542: China=5892.505, US=358755.259"
+CYM,Cayman Isds,2024,small_category_value,"HS 8542: China=4443.206, US=339557.072"
+CYP,Cyprus,2014,small_category_value,"HS 8542: China=6979.944, US=47179.056"
+CYP,Cyprus,2015,small_category_value,"HS 8542: China=5644.093, US=27360.591"
+CYP,Cyprus,2019,small_category_value,"HS 8541: China=14269599.246, US=1874.407"
+CYP,Cyprus,2020,small_category_value,"HS 8541: China=4347268.792, US=8067.33"
+CYP,Cyprus,2024,small_category_value,"HS 8541: China=12216245.931, US=7676.242"
+DJI,Djibouti,2022,small_category_value,"HS 8541: China=29844016.442, US=45.016"
+DMA,Dominica,2016,small_category_value,"HS 8542: China=6302.957, US=73889.556"
+DMA,Dominica,2017,small_category_value,"HS 8542: China=2436.307, US=50700.971"
+DMA,Dominica,2018,small_category_value,"HS 8542: China=3247.771, US=38395.842"
+DMA,Dominica,2019,small_category_value,"HS 8541: China=5211.805, US=96164.691"
+DMA,Dominica,2019,small_category_value,"HS 8542: China=4896.252, US=50413.25"
+DMA,Dominica,2020,small_category_value,"HS 8471: China=5613.698, US=2307859.544"
+DMA,Dominica,2020,small_category_value,"HS 8542: China=1450.369, US=27291.084"
+DMA,Dominica,2021,small_category_value,"HS 8542: China=145.926, US=21969.237"
+DMA,Dominica,2022,small_category_value,"HS 8471: China=5944.068, US=2264197.365"
+DMA,Dominica,2022,small_category_value,"HS 8542: China=345.926, US=34955.15"
+DMA,Dominica,2023,small_category_value,"HS 8542: China=1325.184, US=48318.841"
+FJI,Fiji,2014,small_category_value,"HS 8542: China=9253.0, US=82664.0"
+FJI,Fiji,2015,small_category_value,"HS 8542: China=6381.985, US=9607.54"
+FJI,Fiji,2016,small_category_value,"HS 8542: China=8527.681, US=7184.397"
+FJI,Fiji,2017,small_category_value,"HS 8542: China=4302.721, US=16251.335"
+FJI,Fiji,2018,small_category_value,"HS 8542: China=12716.879, US=5643.429"
+FJI,Fiji,2019,small_category_value,"HS 8542: China=12897.621, US=7447.701"
+FJI,Fiji,2020,small_category_value,"HS 8542: China=7830.579, US=3957.018"
+FRO,Faroe Isds,2025,small_category_value,"HS 8541: China=98110.404, US=900.809"
+FRO,Faroe Isds,2025,small_category_value,"HS 8542: China=53801.573, US=4414.962"
+GEO,Georgia,2018,small_category_value,"HS 8542: China=1369366.724, US=8311.483"
+GEO,Georgia,2019,small_category_value,"HS 8542: China=1855527.86, US=4678.92"
+GEO,Georgia,2021,small_category_value,"HS 8541: China=3318864.086, US=65.98"
+GEO,Georgia,2021,small_category_value,"HS 8542: China=140690.088, US=2263.972"
+GEO,Georgia,2024,small_category_value,"HS 8541: China=11147073.529, US=378.783"
+GEO,Georgia,2024,small_category_value,"HS 8542: China=915164.812, US=2553.128"
+GEO,Georgia,2025,small_category_value,"HS 8541: China=30195978.952, US=1986.212"
+GEO,Georgia,2025,small_category_value,"HS 8542: China=684811.892, US=856.993"
+GIN,Guinea,2014,small_category_value,"HS 8542: China=2922.0, US=5840.0"
+GIN,Guinea,2015,small_category_value,"HS 8517: China=31282.0, US=3422.0"
+GIN,Guinea,2015,small_category_value,"HS 8542: China=1365.0, US=nan"
+GIN,Guinea,2016,small_category_value,"HS 8542: China=6920.93, US=nan"
+GMB,Gambia,2014,small_category_value,"HS 8471: China=9932.729, US=34105.557"
+GMB,Gambia,2015,small_category_value,"HS 8471: China=4233.665, US=54037.012"
+GMB,Gambia,2015,small_category_value,"HS 8541: China=18.68, US=nan"
+GMB,Gambia,2016,small_category_value,"HS 8517: China=1508.102, US=21881.896"
+GMB,Gambia,2016,small_category_value,"HS 8541: China=1276.63, US=nan"
+GMB,Gambia,2017,small_category_value,"HS 8541: China=758.45, US=nan"
+GMB,Gambia,2017,small_category_value,"HS 8542: China=151.111, US=52.54"
+GMB,Gambia,2018,small_category_value,"HS 8541: China=2866.04, US=206.015"
+GMB,Gambia,2018,small_category_value,"HS 8542: China=514.102, US=92.332"
+GMB,Gambia,2019,small_category_value,"HS 8541: China=63432.899, US=5484.601"
+GMB,Gambia,2020,small_category_value,"HS 8541: China=46943.837, US=1489.113"
+GMB,Gambia,2021,small_category_value,"HS 8517: China=56655.86, US=49.9"
+GMB,Gambia,2021,small_category_value,"HS 8541: China=15410.05, US=65.43"
+GMB,Gambia,2021,small_category_value,"HS 8542: China=728.74, US=120.32"
+GMB,Gambia,2022,small_category_value,"HS 8517: China=2439923.388, US=5546.815"
+GMB,Gambia,2022,small_category_value,"HS 8541: China=76788.596, US=3869.11"
+GMB,Gambia,2022,small_category_value,"HS 8542: China=nan, US=228.472"
+GMB,Gambia,2023,small_category_value,"HS 8541: China=48532.403, US=8962.767"
+GMB,Gambia,2023,small_category_value,"HS 8542: China=5305.1, US=nan"
+GMB,Gambia,2024,small_category_value,"HS 8541: China=168142.583, US=2254.186"
+GMB,Gambia,2024,small_category_value,"HS 8542: China=6422.039, US=nan"
+GNB,Guinea-Bissau,2014,small_category_value,"HS 8471: China=5338.254, US=71162.0"
+GNB,Guinea-Bissau,2016,small_category_value,"HS 8517: China=5000.0, US=nan"
+GNB,Guinea-Bissau,2017,small_category_value,"HS 8471: China=7909.503, US=25032.65"
+GRD,Grenada,2014,small_category_value,"HS 8541: China=9140.732, US=124616.542"
+GRD,Grenada,2016,small_category_value,"HS 8471: China=5912.216, US=2575854.091"
+GRD,Grenada,2016,small_category_value,"HS 8541: China=nan, US=4068.514"
+GRD,Grenada,2016,small_category_value,"HS 8542: China=2950.738, US=33660.707"
+GRD,Grenada,2018,small_category_value,"HS 8542: China=195.555, US=96369.904"
+GRD,Grenada,2019,small_category_value,"HS 8471: China=5341.852, US=3821548.084"
+GRD,Grenada,2019,small_category_value,"HS 8542: China=1334.074, US=50184.078"
+GRD,Grenada,2020,small_category_value,"HS 8542: China=2284.074, US=94760.008"
+GRD,Grenada,2021,small_category_value,"HS 8471: China=7307.037, US=7052580.363"
+GRD,Grenada,2022,small_category_value,"HS 8542: China=1110.0, US=16850.0"
+GRD,Grenada,2023,small_category_value,"HS 8542: China=288.148, US=21769.631"
+GRD,Grenada,2024,small_category_value,"HS 8542: China=5790.541, US=47243.974"
+GRL,Greenland,2014,small_category_value,"HS 8471: China=1382059.67, US=6019.91"
+GRL,Greenland,2015,small_category_value,"HS 8471: China=861508.53, US=2863.07"
+GRL,Greenland,2016,small_category_value,"HS 8541: China=107.7, US=nan"
+GRL,Greenland,2016,small_category_value,"HS 8542: China=4728.97, US=nan"
+GRL,Greenland,2017,small_category_value,"HS 8471: China=1459657.55, US=9273.54"
+GRL,Greenland,2017,small_category_value,"HS 8541: China=2034.01, US=nan"
+GRL,Greenland,2018,small_category_value,"HS 8471: China=1687008.28, US=5716.55"
+GRL,Greenland,2018,small_category_value,"HS 8517: China=3459799.06, US=8763.1"
+GRL,Greenland,2018,small_category_value,"HS 8541: China=9.22, US=nan"
+GUY,Guyana,2014,small_category_value,"HS 8542: China=8445.0, US=231247.0"
+GUY,Guyana,2018,small_category_value,"HS 8542: China=6658.365, US=40071.931"
+GUY,Guyana,2019,small_category_value,"HS 8542: China=3207.379, US=71573.244"
+GUY,Guyana,2020,small_category_value,"HS 8542: China=3671.489, US=59339.142"
+GUY,Guyana,2021,small_category_value,"HS 8542: China=6866.485, US=112598.053"
+GUY,Guyana,2024,small_category_value,"HS 8542: China=8156.94, US=681325.175"
+HTI,Haiti,2016,small_category_value,"HS 8542: China=80.491, US=126878.34"
+IRN,Iran,2015,small_category_value,"HS 8471: China=74942310.0, US=4943.0"
+IRN,Iran,2018,small_category_value,"HS 8471: China=30040843.0, US=8906.0"
+IRQ,Iraq,2021,small_category_value,"HS 8517: China=2341802.0, US=3265.0"
+IRQ,Iraq,2022,small_category_value,"HS 8471: China=538437.0, US=424.0"
+IRQ,Iraq,2023,small_category_value,"HS 8517: China=9123978.0, US=260.0"
+JOR,Jordan,2019,small_category_value,"HS 8541: China=170388054.091, US=9561.974"
+KGZ,Kyrgyzstan,2014,small_category_value,"HS 8542: China=39219.0, US=9371.0"
+KGZ,Kyrgyzstan,2015,small_category_value,"HS 8542: China=96603.0, US=431.0"
+KGZ,Kyrgyzstan,2016,small_category_value,"HS 8541: China=1599515.0, US=3547.0"
+KGZ,Kyrgyzstan,2017,small_category_value,"HS 8542: China=26507.0, US=3472.0"
+KGZ,Kyrgyzstan,2018,small_category_value,"HS 8541: China=1756389.0, US=259.0"
+KGZ,Kyrgyzstan,2019,small_category_value,"HS 8541: China=611831.0, US=6406.0"
+KGZ,Kyrgyzstan,2020,small_category_value,"HS 8541: China=259156.0, US=724.0"
+KGZ,Kyrgyzstan,2020,small_category_value,"HS 8542: China=88575.0, US=1981.0"
+KGZ,Kyrgyzstan,2021,small_category_value,"HS 8541: China=461911.0, US=2768.0"
+KGZ,Kyrgyzstan,2025,small_category_value,"HS 8541: China=50686941.0, US=4753.0"
+KGZ,Kyrgyzstan,2025,small_category_value,"HS 8542: China=640657.0, US=6110.0"
+KHM,Cambodia,2014,small_category_value,"HS 8541: China=3895783.0, US=1876.0"
+KHM,Cambodia,2014,small_category_value,"HS 8542: China=9839.0, US=5056.0"
+KHM,Cambodia,2015,small_category_value,"HS 8541: China=5989507.0, US=2265.0"
+KHM,Cambodia,2015,small_category_value,"HS 8542: China=69064.0, US=268.0"
+KHM,Cambodia,2016,small_category_value,"HS 8542: China=73343.0, US=72.0"
+KHM,Cambodia,2018,small_category_value,"HS 8541: China=7034269.08, US=1566.36"
+KHM,Cambodia,2018,small_category_value,"HS 8542: China=122108.46, US=894.76"
+KHM,Cambodia,2019,small_category_value,"HS 8541: China=64382475.68, US=779.24"
+KHM,Cambodia,2020,small_category_value,"HS 8542: China=1830511.53, US=3164.12"
+KHM,Cambodia,2023,small_category_value,"HS 8541: China=193001294.6, US=5135.63"
+KIR,Kiribati,2014,small_category_value,"HS 8517: China=24295.505, US=6716.388"
+KIR,Kiribati,2014,small_category_value,"HS 8541: China=1825.665, US=16916.512"
+KIR,Kiribati,2014,small_category_value,"HS 8542: China=303.306, US=nan"
+KIR,Kiribati,2016,small_category_value,"HS 8517: China=23900.54, US=6614.0"
+KIR,Kiribati,2016,small_category_value,"HS 8541: China=1798.08, US=18735.0"
+KIR,Kiribati,2016,small_category_value,"HS 8542: China=306.0, US=nan"
+KIR,Kiribati,2017,small_category_value,"HS 8541: China=39446.647, US=1823.387"
+KIR,Kiribati,2017,small_category_value,"HS 8542: China=23.003, US=68.243"
+KIR,Kiribati,2018,small_category_value,"HS 8541: China=24139.799, US=112.073"
+KIR,Kiribati,2018,small_category_value,"HS 8542: China=187.536, US=1028.084"
+KIR,Kiribati,2020,small_category_value,"HS 8541: China=732270.215, US=1485.116"
+KIR,Kiribati,2020,small_category_value,"HS 8542: China=104.605, US=nan"
+KIR,Kiribati,2021,small_category_value,"HS 8542: China=431.053, US=nan"
+KNA,Saint Kitts and Nevis,2014,small_category_value,"HS 8542: China=30.0, US=1203101.0"
+KNA,Saint Kitts and Nevis,2015,small_category_value,"HS 8542: China=683.473, US=878728.103"
+LAO,Lao People's Dem. Rep.,2015,small_category_value,"HS 8541: China=3108.0, US=nan"
+LAO,Lao People's Dem. Rep.,2017,small_category_value,"HS 8541: China=3362.0, US=49465.0"
+LAO,Lao People's Dem. Rep.,2018,small_category_value,"HS 8541: China=101645.0, US=847.0"
+LAO,Lao People's Dem. Rep.,2018,small_category_value,"HS 8542: China=1224.0, US=nan"
+LBN,Lebanon,2019,small_category_value,"HS 8541: China=6409984.35, US=560.14"
+LBN,Lebanon,2020,small_category_value,"HS 8541: China=3056408.0, US=5385.0"
+LBN,Lebanon,2024,small_category_value,"HS 8541: China=72891775.0, US=6992.0"
+LBR,Liberia,2017,small_category_value,"HS 8542: China=178.0, US=6414.0"
+LBR,Liberia,2018,small_category_value,"HS 8542: China=233214.59, US=726.11"
+LBR,Liberia,2019,small_category_value,"HS 8542: China=611.75, US=11755.04"
+LBR,Liberia,2020,small_category_value,"HS 8542: China=150.0, US=1356057.55"
+LBR,Liberia,2021,small_category_value,"HS 8542: China=2071.12, US=29205.76"
+LBR,Liberia,2024,small_category_value,"HS 8542: China=544.02, US=nan"
+LBR,Liberia,2025,small_category_value,"HS 8542: China=4129.85, US=2835.35"
+LBY,Libya,2016,small_category_value,"HS 8542: China=8053.0, US=9500.0"
+LBY,Libya,2017,small_category_value,"HS 8541: China=405853.957, US=9430.935"
+LBY,Libya,2018,small_category_value,"HS 8541: China=121100.528, US=4084.848"
+LBY,Libya,2018,small_category_value,"HS 8542: China=1329.865, US=nan"
+LBY,Libya,2019,small_category_value,"HS 8541: China=990954.0, US=7505.0"
+LBY,Libya,2019,small_category_value,"HS 8542: China=nan, US=9130.0"
+LCA,Saint Lucia,2014,small_category_value,"HS 8542: China=385.0, US=10694.0"
+LCA,Saint Lucia,2015,small_category_value,"HS 8542: China=70.0, US=52929.0"
+LCA,Saint Lucia,2016,small_category_value,"HS 8542: China=472.0, US=8193.0"
+LCA,Saint Lucia,2017,small_category_value,"HS 8541: China=6073.049, US=35163.98"
+LCA,Saint Lucia,2018,small_category_value,"HS 8542: China=54.27, US=23399.78"
+LCA,Saint Lucia,2019,small_category_value,"HS 8542: China=281.09, US=18787.51"
+LSO,Lesotho,2015,small_category_value,"HS 8542: China=27.394, US=nan"
+LSO,Lesotho,2016,small_category_value,"HS 8542: China=5271.043, US=nan"
+LSO,Lesotho,2018,small_category_value,"HS 8542: China=356.437, US=nan"
+LSO,Lesotho,2020,small_category_value,"HS 8541: China=79479.892, US=7743.677"
+LSO,Lesotho,2021,small_category_value,"HS 8542: China=344.372, US=477.967"
+LSO,Lesotho,2022,small_category_value,"HS 8542: China=257.679, US=49.353"
+LSO,Lesotho,2023,small_category_value,"HS 8542: China=55.257, US=3797.65"
+LSO,Lesotho,2024,small_category_value,"HS 8541: China=319356.71, US=3561.919"
+LSO,Lesotho,2024,small_category_value,"HS 8542: China=1507.726, US=176.456"
+MAC,"China, Macao SAR",2015,small_category_value,"HS 8541: China=525270.0, US=9916.0"
+MDA,Rep. of Moldova,2014,small_category_value,"HS 8541: China=1752444.0, US=8906.0"
+MDA,Rep. of Moldova,2015,small_category_value,"HS 8541: China=1291239.0, US=9825.0"
+MDA,Rep. of Moldova,2016,small_category_value,"HS 8541: China=1429971.0, US=7401.0"
+MDA,Rep. of Moldova,2017,small_category_value,"HS 8541: China=1718947.0, US=1348.0"
+MDA,Rep. of Moldova,2018,small_category_value,"HS 8541: China=2228720.0, US=1234.0"
+MDA,Rep. of Moldova,2018,small_category_value,"HS 8542: China=610064.0, US=9761.0"
+MDA,Rep. of Moldova,2020,small_category_value,"HS 8541: China=3489934.0, US=4922.0"
+MDA,Rep. of Moldova,2021,small_category_value,"HS 8541: China=7939270.0, US=8417.0"
+MDA,Rep. of Moldova,2022,small_category_value,"HS 8541: China=26670035.0, US=3774.0"
+MDA,Rep. of Moldova,2023,small_category_value,"HS 8541: China=41618524.0, US=2284.0"
+MDG,Madagascar,2019,small_category_value,"HS 8541: China=7766602.286, US=2923.478"
+MDG,Madagascar,2021,small_category_value,"HS 8542: China=105965.208, US=6604.367"
+MDG,Madagascar,2023,small_category_value,"HS 8542: China=29323.019, US=5557.667"
+MDG,Madagascar,2025,small_category_value,"HS 8541: China=37629682.449, US=7021.929"
+MDV,Maldives,2014,small_category_value,"HS 8542: China=165.0, US=62.0"
+MDV,Maldives,2015,small_category_value,"HS 8542: China=385.0, US=12504.0"
+MDV,Maldives,2016,small_category_value,"HS 8542: China=525.0, US=1195.0"
+MDV,Maldives,2017,small_category_value,"HS 8542: China=2424.394, US=nan"
+MDV,Maldives,2018,small_category_value,"HS 8542: China=236599.653, US=3740.293"
+MDV,Maldives,2019,small_category_value,"HS 8542: China=2658.64, US=17809.13"
+MDV,Maldives,2020,small_category_value,"HS 8542: China=2203.685, US=5132.972"
+MDV,Maldives,2021,small_category_value,"HS 8542: China=1631.397, US=98.65"
+MDV,Maldives,2022,small_category_value,"HS 8542: China=11933.251, US=2313.902"
+MDV,Maldives,2023,small_category_value,"HS 8542: China=9572.579, US=12367.019"
+MDV,Maldives,2024,small_category_value,"HS 8542: China=294068.445, US=1223.169"
+MDV,Maldives,2025,small_category_value,"HS 8542: China=6143.422, US=169.787"
+MLI,Mali,2016,small_category_value,"HS 8542: China=4389.0, US=122342.0"
+MLI,Mali,2019,small_category_value,"HS 8542: China=5410.86, US=6410.97"
+MLI,Mali,2021,small_category_value,"HS 8542: China=107929.737, US=7788.437"
+MLI,Mali,2022,small_category_value,"HS 8542: China=613747.804, US=3978.476"
+MLI,Mali,2023,small_category_value,"HS 8542: China=25290.576, US=1814.307"
+MLI,Mali,2024,small_category_value,"HS 8542: China=1778.823, US=967.867"
+MLT,Malta,2017,small_category_value,"HS 8541: China=148922.988, US=7531.514"
+MMR,Myanmar,2016,small_category_value,"HS 8541: China=27809289.07, US=2334.5"
+MMR,Myanmar,2017,small_category_value,"HS 8541: China=60845600.239, US=41.99"
+MMR,Myanmar,2018,small_category_value,"HS 8542: China=13006028.89, US=5406.24"
+MMR,Myanmar,2021,small_category_value,"HS 8541: China=18968674.24, US=1624.7"
+MMR,Myanmar,2021,small_category_value,"HS 8542: China=1723866.77, US=2557.71"
+MMR,Myanmar,2023,small_category_value,"HS 8541: China=115343254.987, US=6384.2"
+MMR,Myanmar,2023,small_category_value,"HS 8542: China=499082.92, US=8456.23"
+MMR,Myanmar,2024,small_category_value,"HS 8542: China=174177.09, US=725.0"
+MMR,Myanmar,2025,small_category_value,"HS 8541: China=323495448.34, US=2757.39"
+MNE,Montenegro,2014,small_category_value,"HS 8541: China=857068.0, US=1718.0"
+MNE,Montenegro,2015,small_category_value,"HS 8541: China=469098.0, US=378.0"
+MNE,Montenegro,2016,small_category_value,"HS 8541: China=179004.703, US=6651.928"
+MNE,Montenegro,2017,small_category_value,"HS 8541: China=100444.407, US=8383.556"
+MNE,Montenegro,2019,small_category_value,"HS 8541: China=382392.66, US=1579.398"
+MNE,Montenegro,2020,small_category_value,"HS 8541: China=95120.55, US=1382.197"
+MNE,Montenegro,2021,small_category_value,"HS 8541: China=205528.42, US=6409.428"
+MNE,Montenegro,2022,small_category_value,"HS 8541: China=10671404.749, US=499.792"
+MNE,Montenegro,2023,small_category_value,"HS 8541: China=5119016.775, US=977.723"
+MNE,Montenegro,2024,small_category_value,"HS 8541: China=7669155.553, US=2896.251"
+MNE,Montenegro,2024,small_category_value,"HS 8542: China=1127765.229, US=8521.016"
+MNG,Mongolia,2014,small_category_value,"HS 8541: China=401007.0, US=7972.0"
+MNG,Mongolia,2015,small_category_value,"HS 8542: China=14464.0, US=7523.0"
+MNG,Mongolia,2017,small_category_value,"HS 8542: China=66985.37, US=3218.05"
+MNG,Mongolia,2018,small_category_value,"HS 8541: China=17179016.14, US=9026.82"
+MNG,Mongolia,2019,small_category_value,"HS 8541: China=522357.79, US=5532.19"
+MNG,Mongolia,2021,small_category_value,"HS 8542: China=49151.84, US=394.06"
+MNG,Mongolia,2022,small_category_value,"HS 8541: China=5359431.285, US=6589.207"
+MNG,Mongolia,2023,small_category_value,"HS 8541: China=10661451.742, US=5592.77"
+MNG,Mongolia,2023,small_category_value,"HS 8542: China=207394.447, US=2865.595"
+MOZ,Mozambique,2014,small_category_value,"HS 8541: China=322410.0, US=2120.0"
+MOZ,Mozambique,2014,small_category_value,"HS 8542: China=18800.0, US=7560.0"
+MOZ,Mozambique,2016,small_category_value,"HS 8542: China=17374.05, US=8028.94"
+MOZ,Mozambique,2017,small_category_value,"HS 8542: China=130017.075, US=1313.182"
+MOZ,Mozambique,2019,small_category_value,"HS 8542: China=78462.422, US=8318.817"
+MOZ,Mozambique,2020,small_category_value,"HS 8542: China=140008.123, US=7961.75"
+MOZ,Mozambique,2021,small_category_value,"HS 8542: China=326116.977, US=8698.345"
+MOZ,Mozambique,2022,small_category_value,"HS 8542: China=162909.272, US=4537.514"
+MRT,Mauritania,2014,small_category_value,"HS 8541: China=1016086.0, US=318.0"
+MRT,Mauritania,2015,small_category_value,"HS 8541: China=8085180.97, US=215.98"
+MRT,Mauritania,2015,small_category_value,"HS 8542: China=nan, US=473.38"
+MRT,Mauritania,2017,small_category_value,"HS 8542: China=nan, US=2809.041"
+MRT,Mauritania,2019,small_category_value,"HS 8541: China=82901.07, US=3052.88"
+MRT,Mauritania,2019,small_category_value,"HS 8542: China=108.12, US=nan"
+MRT,Mauritania,2021,small_category_value,"HS 8542: China=58.81, US=36900.12"
+MRT,Mauritania,2022,small_category_value,"HS 8542: China=nan, US=9121.847"
+MRT,Mauritania,2025,small_category_value,"HS 8542: China=7026.979, US=130033.039"
+MSR,Montserrat,2014,small_category_value,"HS 8542: China=nan, US=1755.0"
+MSR,Montserrat,2015,small_category_value,"HS 8471: China=2572.138, US=427714.535"
+MSR,Montserrat,2015,small_category_value,"HS 8517: China=4669.751, US=473055.257"
+MSR,Montserrat,2015,small_category_value,"HS 8541: China=nan, US=1113.754"
+MSR,Montserrat,2015,small_category_value,"HS 8542: China=nan, US=2283.838"
+MSR,Montserrat,2016,small_category_value,"HS 8541: China=nan, US=3998.815"
+MSR,Montserrat,2016,small_category_value,"HS 8542: China=nan, US=5645.368"
+MSR,Montserrat,2017,small_category_value,"HS 8471: China=1026.295, US=396354.63"
+MSR,Montserrat,2017,small_category_value,"HS 8541: China=nan, US=1829.246"
+MSR,Montserrat,2017,small_category_value,"HS 8542: China=nan, US=5831.598"
+MSR,Montserrat,2018,small_category_value,"HS 8517: China=923.833, US=309179.962"
+MSR,Montserrat,2018,small_category_value,"HS 8541: China=nan, US=2475.926"
+MSR,Montserrat,2018,small_category_value,"HS 8542: China=nan, US=6050.934"
+MSR,Montserrat,2019,small_category_value,"HS 8541: China=nan, US=6288.404"
+MSR,Montserrat,2020,small_category_value,"HS 8517: China=8325.049, US=264672.414"
+MSR,Montserrat,2020,small_category_value,"HS 8542: China=nan, US=2464.374"
+MSR,Montserrat,2021,small_category_value,"HS 8471: China=389.504, US=490171.888"
+MSR,Montserrat,2021,small_category_value,"HS 8517: China=397.067, US=376207.666"
+MSR,Montserrat,2021,small_category_value,"HS 8541: China=5578.848, US=346301.844"
+MSR,Montserrat,2021,small_category_value,"HS 8542: China=nan, US=5834.559"
+MSR,Montserrat,2022,small_category_value,"HS 8541: China=25456.718, US=3827.356"
+MSR,Montserrat,2022,small_category_value,"HS 8542: China=nan, US=1802.922"
+MSR,Montserrat,2023,small_category_value,"HS 8471: China=200.526, US=573884.099"
+MSR,Montserrat,2023,small_category_value,"HS 8542: China=nan, US=7248.037"
+MSR,Montserrat,2024,small_category_value,"HS 8542: China=nan, US=5384.311"
+MUS,Mauritius,2014,small_category_value,"HS 8541: China=4552059.0, US=9452.0"
+MUS,Mauritius,2014,small_category_value,"HS 8542: China=9423.0, US=2100.0"
+MUS,Mauritius,2015,small_category_value,"HS 8541: China=603435.0, US=4920.0"
+MUS,Mauritius,2015,small_category_value,"HS 8542: China=4322.0, US=2361.0"
+MUS,Mauritius,2018,small_category_value,"HS 8541: China=12544243.42, US=310.017"
+MUS,Mauritius,2019,small_category_value,"HS 8542: China=1415235.503, US=4018.401"
+MUS,Mauritius,2020,small_category_value,"HS 8541: China=904788.576, US=5699.088"
+MUS,Mauritius,2021,small_category_value,"HS 8541: China=634871.466, US=895.133"
+MUS,Mauritius,2021,small_category_value,"HS 8542: China=112217.38, US=2245.22"
+MUS,Mauritius,2022,small_category_value,"HS 8541: China=2759627.653, US=1605.195"
+MUS,Mauritius,2023,small_category_value,"HS 8541: China=4507180.893, US=5683.072"
+MUS,Mauritius,2023,small_category_value,"HS 8542: China=868110.985, US=1476.432"
+MUS,Mauritius,2024,small_category_value,"HS 8541: China=4228214.95, US=5822.549"
+MUS,Mauritius,2024,small_category_value,"HS 8542: China=58175.494, US=769.7"
+MUS,Mauritius,2025,small_category_value,"HS 8541: China=4868980.937, US=712.662"
+MWI,Malawi,2014,small_category_value,"HS 8542: China=72035.283, US=9957.621"
+MWI,Malawi,2015,small_category_value,"HS 8542: China=42040.806, US=1411.353"
+MWI,Malawi,2016,small_category_value,"HS 8542: China=108667.705, US=4006.233"
+MWI,Malawi,2019,small_category_value,"HS 8542: China=43307.612, US=5385.59"
+MWI,Malawi,2020,small_category_value,"HS 8542: China=32457.493, US=2347.294"
+MWI,Malawi,2022,small_category_value,"HS 8541: China=1978515.963, US=5514.568"
+MWI,Malawi,2022,small_category_value,"HS 8542: China=33572.769, US=4116.46"
+MWI,Malawi,2023,small_category_value,"HS 8542: China=42597.85, US=5842.96"
+MWI,Malawi,2024,small_category_value,"HS 8542: China=38804.778, US=6441.223"
+NAM,Namibia,2021,small_category_value,"HS 8541: China=22506292.169, US=8359.657"
+NCL,New Caledonia,2014,small_category_value,"HS 8541: China=227410.0, US=5796.0"
+NER,Niger,2014,small_category_value,"HS 8541: China=1961272.0, US=212.0"
+NER,Niger,2014,small_category_value,"HS 8542: China=71774.0, US=2683.0"
+NER,Niger,2015,small_category_value,"HS 8541: China=418257.0, US=54.0"
+NER,Niger,2016,small_category_value,"HS 8541: China=1067147.307, US=2651.728"
+NER,Niger,2017,small_category_value,"HS 8541: China=670026.582, US=3304.75"
+NER,Niger,2022,small_category_value,"HS 8542: China=982480.556, US=3432.432"
+NER,Niger,2024,small_category_value,"HS 8542: China=150507.265, US=1679.839"
+NER,Niger,2025,small_category_value,"HS 8542: China=88664.164, US=1028.329"
+NPL,Nepal,2015,small_category_value,"HS 8542: China=998674.0, US=807.0"
+NPL,Nepal,2016,small_category_value,"HS 8541: China=12311401.252, US=2322.931"
+NPL,Nepal,2016,small_category_value,"HS 8542: China=44634.856, US=2753.319"
+NPL,Nepal,2018,small_category_value,"HS 8541: China=6024542.92, US=4274.57"
+NPL,Nepal,2019,small_category_value,"HS 8541: China=18622951.62, US=1808.59"
+NPL,Nepal,2020,small_category_value,"HS 8541: China=6856095.72, US=1066.46"
+NPL,Nepal,2021,small_category_value,"HS 8541: China=9467055.42, US=119.16"
+NPL,Nepal,2021,small_category_value,"HS 8542: China=468852.85, US=3459.34"
+NPL,Nepal,2022,small_category_value,"HS 8542: China=128178.266, US=2917.477"
+OMN,Oman,2019,small_category_value,"HS 8542: China=5895.968, US=68418.719"
+PLW,Palau,2014,small_category_value,"HS 8541: China=850.0, US=10315.0"
+PLW,Palau,2015,small_category_value,"HS 8542: China=346.0, US=35215.0"
+PLW,Palau,2016,small_category_value,"HS 8517: China=8751.0, US=313344.0"
+PLW,Palau,2016,small_category_value,"HS 8541: China=7730.0, US=3298.0"
+PLW,Palau,2016,small_category_value,"HS 8542: China=183.0, US=100745.0"
+PLW,Palau,2017,small_category_value,"HS 8542: China=5450.73, US=74455.51"
+PLW,Palau,2018,small_category_value,"HS 8541: China=8555.78, US=38672.81"
+PLW,Palau,2018,small_category_value,"HS 8542: China=308.89, US=47433.36"
+PSE,State of Palestine,2014,small_category_value,"HS 8541: China=247607.0, US=32.0"
+PSE,State of Palestine,2014,small_category_value,"HS 8542: China=27390.0, US=2489.0"
+PSE,State of Palestine,2015,small_category_value,"HS 8542: China=42895.0, US=421.0"
+PSE,State of Palestine,2016,small_category_value,"HS 8541: China=1131099.0, US=477.0"
+PSE,State of Palestine,2016,small_category_value,"HS 8542: China=43196.0, US=503.0"
+PSE,State of Palestine,2018,small_category_value,"HS 8541: China=4688511.433, US=44.014"
+PSE,State of Palestine,2018,small_category_value,"HS 8542: China=12739.875, US=2940.933"
+PSE,State of Palestine,2019,small_category_value,"HS 8541: China=12533308.79, US=35.56"
+PSE,State of Palestine,2019,small_category_value,"HS 8542: China=8769.18, US=1532.03"
+PSE,State of Palestine,2020,small_category_value,"HS 8541: China=5071105.98, US=91.04"
+PSE,State of Palestine,2020,small_category_value,"HS 8542: China=3432.09, US=9458.46"
+PSE,State of Palestine,2021,small_category_value,"HS 8541: China=10435755.35, US=411.55"
+PSE,State of Palestine,2021,small_category_value,"HS 8542: China=19020.7, US=1267.77"
+PSE,State of Palestine,2022,small_category_value,"HS 8541: China=13412719.063, US=4240.646"
+PSE,State of Palestine,2022,small_category_value,"HS 8542: China=22944.984, US=9218.915"
+PSE,State of Palestine,2023,small_category_value,"HS 8541: China=12961141.204, US=2455.335"
+PSE,State of Palestine,2023,small_category_value,"HS 8542: China=35326.952, US=2589.071"
+PYF,French Polynesia,2016,small_category_value,"HS 8541: China=819049.283, US=8936.84"
+PYF,French Polynesia,2019,small_category_value,"HS 8541: China=987596.714, US=9538.666"
+PYF,French Polynesia,2022,small_category_value,"HS 8541: China=2669291.377, US=8501.159"
+PYF,French Polynesia,2023,small_category_value,"HS 8541: China=5531.619, US=6765.723"
+PYF,French Polynesia,2024,small_category_value,"HS 8541: China=9927.079, US=nan"
+PYF,French Polynesia,2025,small_category_value,"HS 8541: China=6582.898, US=6201.458"
+RWA,Rwanda,2014,small_category_value,"HS 8542: China=72674.526, US=3092.225"
+RWA,Rwanda,2015,small_category_value,"HS 8542: China=8954.44, US=93019.867"
+RWA,Rwanda,2016,small_category_value,"HS 8542: China=14501.194, US=508.251"
+RWA,Rwanda,2017,small_category_value,"HS 8542: China=86802.941, US=5957.443"
+RWA,Rwanda,2018,small_category_value,"HS 8541: China=2533627.49, US=878.06"
+RWA,Rwanda,2020,small_category_value,"HS 8541: China=3127255.46, US=6422.14"
+SDN,Sudan,2018,small_category_value,"HS 8542: China=2952.0, US=nan"
+SEN,Senegal,2016,small_category_value,"HS 8542: China=228772.0, US=4465.0"
+SEN,Senegal,2019,small_category_value,"HS 8542: China=557927.742, US=8790.635"
+SEN,Senegal,2022,small_category_value,"HS 8541: China=15036993.209, US=7988.04"
+SEN,Senegal,2023,small_category_value,"HS 8542: China=81702.544, US=9546.27"
+SEN,Senegal,2025,small_category_value,"HS 8542: China=83338.077, US=343.544"
+SLB,Solomon Isds,2014,small_category_value,"HS 8542: China=414.048, US=nan"
+SLB,Solomon Isds,2015,small_category_value,"HS 8541: China=1478758.0, US=7767.0"
+SLB,Solomon Isds,2015,small_category_value,"HS 8542: China=91.0, US=2231.0"
+SLB,Solomon Isds,2016,small_category_value,"HS 8541: China=1172201.0, US=29.0"
+SLB,Solomon Isds,2018,small_category_value,"HS 8541: China=2071108.412, US=5656.82"
+SLE,Sierra Leone,2014,small_category_value,"HS 8542: China=9508.0, US=nan"
+SLE,Sierra Leone,2016,small_category_value,"HS 8542: China=6210.0, US=nan"
+SLE,Sierra Leone,2017,small_category_value,"HS 8542: China=309.148, US=nan"
+SLE,Sierra Leone,2018,small_category_value,"HS 8542: China=nan, US=88.5"
+SSD,South Sudan,2025,small_category_value,"HS 8517: China=6000.0, US=159743.0"
+STP,Sao Tome and Principe,2014,small_category_value,"HS 8471: China=3268.0, US=93156.0"
+STP,Sao Tome and Principe,2015,small_category_value,"HS 8471: China=1244.0, US=5351.0"
+STP,Sao Tome and Principe,2016,small_category_value,"HS 8541: China=3424.0, US=nan"
+STP,Sao Tome and Principe,2017,small_category_value,"HS 8471: China=5936.773, US=46371.017"
+STP,Sao Tome and Principe,2017,small_category_value,"HS 8517: China=13747.118, US=213.561"
+STP,Sao Tome and Principe,2017,small_category_value,"HS 8541: China=660.679, US=9179.947"
+STP,Sao Tome and Principe,2018,small_category_value,"HS 8541: China=2426.421, US=1403.742"
+STP,Sao Tome and Principe,2019,small_category_value,"HS 8541: China=64.109, US=2824.753"
+STP,Sao Tome and Principe,2020,small_category_value,"HS 8471: China=109052.702, US=1065.046"
+STP,Sao Tome and Principe,2020,small_category_value,"HS 8517: China=490903.547, US=465.94"
+STP,Sao Tome and Principe,2020,small_category_value,"HS 8541: China=166.039, US=nan"
+STP,Sao Tome and Principe,2020,small_category_value,"HS 8542: China=nan, US=235.458"
+STP,Sao Tome and Principe,2021,small_category_value,"HS 8517: China=598796.796, US=3324.192"
+STP,Sao Tome and Principe,2021,small_category_value,"HS 8541: China=4735.478, US=nan"
+STP,Sao Tome and Principe,2022,small_category_value,"HS 8541: China=9305.393, US=nan"
+STP,Sao Tome and Principe,2022,small_category_value,"HS 8542: China=nan, US=31.043"
+STP,Sao Tome and Principe,2023,small_category_value,"HS 8471: China=4419.356, US=4233.491"
+STP,Sao Tome and Principe,2023,small_category_value,"HS 8542: China=nan, US=6.612"
+STP,Sao Tome and Principe,2024,small_category_value,"HS 8517: China=7828.365, US=164491.853"
+STP,Sao Tome and Principe,2024,small_category_value,"HS 8542: China=589.795, US=nan"
+STP,Sao Tome and Principe,2025,small_category_value,"HS 8517: China=4206.222, US=1000.412"
+STP,Sao Tome and Principe,2025,small_category_value,"HS 8542: China=1865.534, US=158.338"
+SUR,Suriname,2017,small_category_value,"HS 8542: China=1699.78, US=42931.286"
+SUR,Suriname,2018,small_category_value,"HS 8542: China=9353.524, US=31475.73"
+SUR,Suriname,2019,small_category_value,"HS 8542: China=4432.52, US=36782.359"
+SUR,Suriname,2020,small_category_value,"HS 8542: China=6100.0, US=23718.069"
+SUR,Suriname,2023,small_category_value,"HS 8542: China=3915.8, US=141265.023"
+SWZ,Eswatini,2014,small_category_value,"HS 8541: China=538.75, US=56.488"
+SWZ,Eswatini,2014,small_category_value,"HS 8542: China=77.088, US=2164.553"
+SWZ,Eswatini,2015,small_category_value,"HS 8541: China=34027.37, US=4984.576"
+SWZ,Eswatini,2015,small_category_value,"HS 8542: China=2221.909, US=7896.189"
+SWZ,Eswatini,2016,small_category_value,"HS 8541: China=17165.682, US=1781.05"
+SWZ,Eswatini,2016,small_category_value,"HS 8542: China=519.023, US=7857.765"
+SWZ,Eswatini,2017,small_category_value,"HS 8541: China=4052.78, US=3743.606"
+SWZ,Eswatini,2017,small_category_value,"HS 8542: China=5338.785, US=1000.152"
+SWZ,Eswatini,2018,small_category_value,"HS 8542: China=914.194, US=1678.291"
+SWZ,Eswatini,2019,small_category_value,"HS 8541: China=3761137.75, US=134.72"
+SWZ,Eswatini,2019,small_category_value,"HS 8542: China=4234.76, US=1328.92"
+SWZ,Eswatini,2020,small_category_value,"HS 8541: China=2874884.94, US=404.62"
+SWZ,Eswatini,2020,small_category_value,"HS 8542: China=3025.28, US=13569.64"
+SWZ,Eswatini,2021,small_category_value,"HS 8541: China=390888.78, US=338.88"
+SWZ,Eswatini,2021,small_category_value,"HS 8542: China=2796.99, US=9752.14"
+SWZ,Eswatini,2022,small_category_value,"HS 8541: China=622244.55, US=793.9"
+SWZ,Eswatini,2022,small_category_value,"HS 8542: China=7472.02, US=1230.75"
+SWZ,Eswatini,2023,small_category_value,"HS 8541: China=436377.11, US=1337.92"
+SWZ,Eswatini,2023,small_category_value,"HS 8542: China=4848.59, US=991.4"
+SYC,Seychelles,2014,small_category_value,"HS 8541: China=11.356, US=9172.481"
+SYC,Seychelles,2015,small_category_value,"HS 8541: China=3953.97, US=1024.602"
+SYC,Seychelles,2015,small_category_value,"HS 8542: China=36725.028, US=8698.645"
+SYC,Seychelles,2016,small_category_value,"HS 8541: China=28623.907, US=2006.634"
+SYC,Seychelles,2017,small_category_value,"HS 8542: China=1832.935, US=4356.482"
+SYC,Seychelles,2018,small_category_value,"HS 8542: China=2237.548, US=7803.196"
+SYC,Seychelles,2019,small_category_value,"HS 8541: China=1754964.353, US=2024.254"
+SYC,Seychelles,2019,small_category_value,"HS 8542: China=9273.053, US=13783.881"
+SYC,Seychelles,2020,small_category_value,"HS 8541: China=883597.743, US=3574.525"
+SYC,Seychelles,2020,small_category_value,"HS 8542: China=563.316, US=7757.461"
+SYC,Seychelles,2021,small_category_value,"HS 8541: China=435828.2, US=382.367"
+SYC,Seychelles,2021,small_category_value,"HS 8542: China=6399.698, US=7128.333"
+SYC,Seychelles,2022,small_category_value,"HS 8541: China=180639.015, US=3481.586"
+SYC,Seychelles,2022,small_category_value,"HS 8542: China=10610.083, US=5938.122"
+SYC,Seychelles,2023,small_category_value,"HS 8541: China=666521.931, US=2278.317"
+SYC,Seychelles,2023,small_category_value,"HS 8542: China=20811.713, US=5904.489"
+SYC,Seychelles,2024,small_category_value,"HS 8541: China=173290.299, US=473.515"
+SYC,Seychelles,2024,small_category_value,"HS 8542: China=5670.432, US=3859.599"
+SYC,Seychelles,2025,small_category_value,"HS 8541: China=368453.18, US=2083.441"
+SYC,Seychelles,2025,small_category_value,"HS 8542: China=5020.271, US=5326.615"
+TGO,Togo,2014,small_category_value,"HS 8517: China=6677022.938, US=8107.528"
+TGO,Togo,2014,small_category_value,"HS 8542: China=3421.332, US=nan"
+TGO,Togo,2015,small_category_value,"HS 8542: China=219060.29, US=5615.337"
+TGO,Togo,2016,small_category_value,"HS 8542: China=30437.23, US=3486.267"
+TGO,Togo,2017,small_category_value,"HS 8542: China=24800.076, US=2767.328"
+TGO,Togo,2018,small_category_value,"HS 8541: China=1210282.264, US=1271.124"
+TGO,Togo,2019,small_category_value,"HS 8541: China=1428387.221, US=3320.357"
+TGO,Togo,2019,small_category_value,"HS 8542: China=8411.231, US=9397.66"
+TGO,Togo,2020,small_category_value,"HS 8542: China=3585.221, US=18789.326"
+TGO,Togo,2022,small_category_value,"HS 8542: China=7550.001, US=925.675"
+TGO,Togo,2023,small_category_value,"HS 8542: China=268470.187, US=577.355"
+TGO,Togo,2024,small_category_value,"HS 8542: China=60156.709, US=2736.477"
+TGO,Togo,2025,small_category_value,"HS 8542: China=78555.192, US=3513.378"
+TJK,Tajikistan,2014,small_category_value,"HS 8542: China=179957.0, US=4045.0"
+TJK,Tajikistan,2015,small_category_value,"HS 8541: China=216224.0, US=14.0"
+TJK,Tajikistan,2017,small_category_value,"HS 8542: China=306.0, US=nan"
+TJK,Tajikistan,2018,small_category_value,"HS 8542: China=4701.0, US=nan"
+TJK,Tajikistan,2019,small_category_value,"HS 8541: China=430360.0, US=3498.0"
+TJK,Tajikistan,2022,small_category_value,"HS 8542: China=44736.0, US=540.0"
+TLS,Timor-Leste,2017,small_category_value,"HS 8541: China=6981.72, US=nan"
+TLS,Timor-Leste,2017,small_category_value,"HS 8542: China=506.52, US=4752.62"
+TLS,Timor-Leste,2018,small_category_value,"HS 8541: China=1051.54, US=nan"
+TLS,Timor-Leste,2018,small_category_value,"HS 8542: China=5109.6, US=68.86"
+TLS,Timor-Leste,2019,small_category_value,"HS 8542: China=136.15, US=nan"
+TLS,Timor-Leste,2020,small_category_value,"HS 8542: China=5379.05, US=1582.73"
+TLS,Timor-Leste,2021,small_category_value,"HS 8542: China=1115.13, US=568.52"
+TLS,Timor-Leste,2022,small_category_value,"HS 8541: China=169328.59, US=5161.08"
+TLS,Timor-Leste,2022,small_category_value,"HS 8542: China=5428.3, US=1116.18"
+TON,Tonga,2014,small_category_value,"HS 8541: China=3476.0, US=5418.0"
+TON,Tonga,2014,small_category_value,"HS 8542: China=5953.0, US=1792.0"
+TON,Tonga,2017,small_category_value,"HS 8541: China=7129.067, US=1306.263"
+TON,Tonga,2017,small_category_value,"HS 8542: China=23619.018, US=4468.917"
+TON,Tonga,2018,small_category_value,"HS 8542: China=499.708, US=1992.292"
+TON,Tonga,2019,small_category_value,"HS 8541: China=14542.341, US=1548.366"
+TON,Tonga,2019,small_category_value,"HS 8542: China=632.421, US=1717.109"
+TON,Tonga,2020,small_category_value,"HS 8541: China=3884.308, US=22.315"
+TON,Tonga,2020,small_category_value,"HS 8542: China=493.982, US=nan"
+TON,Tonga,2021,small_category_value,"HS 8541: China=4208.585, US=4.562"
+TON,Tonga,2021,small_category_value,"HS 8542: China=1026.598, US=55.513"
+TON,Tonga,2022,small_category_value,"HS 8541: China=6210.2, US=1537.255"
+TON,Tonga,2022,small_category_value,"HS 8542: China=8585.365, US=30.266"
+TON,Tonga,2023,small_category_value,"HS 8541: China=48993.527, US=3840.17"
+TON,Tonga,2023,small_category_value,"HS 8542: China=508.053, US=nan"
+TON,Tonga,2025,small_category_value,"HS 8541: China=44364.946, US=417.123"
+TON,Tonga,2025,small_category_value,"HS 8542: China=412.71, US=nan"
+UGA,Uganda,2016,small_category_value,"HS 8542: China=8811.0, US=25213.0"
+UZB,Uzbekistan,2018,small_category_value,"HS 8541: China=5728084.0, US=192.0"
+UZB,Uzbekistan,2020,small_category_value,"HS 8541: China=4108855.83, US=2683.0"
+UZB,Uzbekistan,2021,small_category_value,"HS 8541: China=39526066.43, US=5679.99"
+UZB,Uzbekistan,2024,small_category_value,"HS 8541: China=344068412.9, US=8291.0"
+VCT,Saint Vincent and the Grenadines,2021,small_category_value,"HS 8542: China=9162.07, US=216293.963"
+WSM,Samoa,2014,small_category_value,"HS 8542: China=31849.0, US=9965.0"
+WSM,Samoa,2015,small_category_value,"HS 8541: China=1694333.0, US=1505.0"
+WSM,Samoa,2015,small_category_value,"HS 8542: China=16090.0, US=7372.0"
+WSM,Samoa,2016,small_category_value,"HS 8541: China=466751.0, US=4.0"
+WSM,Samoa,2016,small_category_value,"HS 8542: China=4449.0, US=412.0"
+WSM,Samoa,2017,small_category_value,"HS 8542: China=12448.515, US=1873.464"
+WSM,Samoa,2018,small_category_value,"HS 8541: China=495617.12, US=556.243"
+WSM,Samoa,2018,small_category_value,"HS 8542: China=1708.517, US=2058.101"
+WSM,Samoa,2019,small_category_value,"HS 8541: China=1672.48, US=nan"
+WSM,Samoa,2019,small_category_value,"HS 8542: China=145.08, US=25217.25"
+WSM,Samoa,2021,small_category_value,"HS 8541: China=17358.528, US=740.584"
+WSM,Samoa,2021,small_category_value,"HS 8542: China=3974.817, US=1925.596"
+WSM,Samoa,2022,small_category_value,"HS 8541: China=9072.835, US=nan"
+WSM,Samoa,2022,small_category_value,"HS 8542: China=1019.597, US=3672.874"
+WSM,Samoa,2023,small_category_value,"HS 8541: China=32451.371, US=4039.538"
+WSM,Samoa,2023,small_category_value,"HS 8542: China=869.833, US=3769.768"
+WSM,Samoa,2024,small_category_value,"HS 8541: China=875604.052, US=211.789"
+WSM,Samoa,2024,small_category_value,"HS 8542: China=1570.007, US=1544.854"
+WSM,Samoa,2025,small_category_value,"HS 8542: China=2659.869, US=515.057"
+YEM,Yemen,2024,small_category_value,"HS 8471: China=995181.867, US=860.0"
+YEM,Yemen,2024,small_category_value,"HS 8517: China=8987659.013, US=8000.0"
+YEM,Yemen,2024,small_category_value,"HS 8542: China=155705.787, US=800.0"
+ZMB,Zambia,2014,small_category_value,"HS 8541: China=106295.937, US=3986.44"
+ZMB,Zambia,2014,small_category_value,"HS 8542: China=62618.948, US=3336.188"
+ZMB,Zambia,2015,small_category_value,"HS 8541: China=738155.776, US=5728.648"
+ZMB,Zambia,2015,small_category_value,"HS 8542: China=121855.013, US=2216.592"
+ZMB,Zambia,2016,small_category_value,"HS 8541: China=1774897.227, US=3399.008"
+ZMB,Zambia,2017,small_category_value,"HS 8542: China=30404.664, US=2471.085"
+ZMB,Zambia,2023,small_category_value,"HS 8541: China=705271.812, US=5933.881"
+ZMB,Zambia,2023,small_category_value,"HS 8542: China=45516.693, US=2646.864"
+ZMB,Zambia,2024,small_category_value,"HS 8542: China=51056.479, US=5836.259"
+ZWE,Zimbabwe,2016,small_category_value,"HS 8542: China=21774.82, US=6305.23"

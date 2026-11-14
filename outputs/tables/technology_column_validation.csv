@@ -1,0 +1,12 @@
+column,present,non_blank_rows,blank_rows,fill_rate
+refYear,True,16094,0,1.0
+reporterCode,True,16094,0,1.0
+reporterISO,True,8226,7868,0.5111
+reporterDesc,True,8226,7868,0.5111
+flowCode,True,16094,0,1.0
+partnerCode,True,16094,0,1.0
+partnerISO,True,8226,7868,0.5111
+partnerDesc,True,8226,7868,0.5111
+cmdCode,True,16094,0,1.0
+motCode,True,16094,0,1.0
+primaryValue,True,16094,0,1.0
