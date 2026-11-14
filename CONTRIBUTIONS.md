@@ -82,13 +82,6 @@ This document records the principal contributions to the **US-China Relative Ori
 - tested whether solar products, partial baskets, and HS revisions distort the combined score, and found their effect small; and
 - documented the analysis in a technology findings review, with recommendations on labelling, partial baskets, and an integrated-circuits sub-indicator.
 
-### Dashboard prototype and review
-
-- prepared a local Streamlit dashboard prototype with map, country-profile, pillar-comparison, weight-explorer, and methodology views;
-- reviewed the pipeline and documented five issues with proposed fixes;
-- drafted dashboard weighting tests; and
-- handed over the prototype and review for integration into the final dashboard.
-
 ### Presentation
 
 - participated in team review and coordination of the final dashboard deliverable;
