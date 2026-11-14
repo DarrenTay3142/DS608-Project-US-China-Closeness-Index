@@ -4,13 +4,23 @@ import pandas as pd
 import pytest
 
 ROOT = Path(__file__).resolve().parents[1]
+SOURCE = ROOT / "data/interim/relations/drd_anchor_country_year.csv"
+
+if not SOURCE.exists():
+    pytest.skip(
+        "Local-only DRD intermediate is unavailable: "
+        "data/interim/relations/drd_anchor_country_year.csv. "
+        "See docs/local_data_requirements.md.",
+        allow_module_level=True,
+    )
+
 spec = importlib.util.spec_from_file_location("builder", ROOT / "src/data/build_diplomatic_structural_ties.py")
 b = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(b)
 
 @pytest.fixture(scope="module")
 def inputs():
-    source = pd.read_csv(ROOT / "data/interim/relations/drd_anchor_country_year.csv", low_memory=False)
+    source = pd.read_csv(SOURCE, low_memory=False)
     master = pd.read_csv(ROOT / "outputs/tables/relations_condition/relationship_condition_country_master.csv", low_memory=False)
     return source, master
 

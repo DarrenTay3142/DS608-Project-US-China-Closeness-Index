@@ -10,8 +10,9 @@ from src.data.build_security_institutional_ties import (
     validate_panel,
 )
 
-REGISTER = Path("data/sources/relations/security_arrangement_membership_register.csv")
-MASTER = Path("outputs/tables/relations_condition/relationship_condition_country_master.csv")
+ROOT = Path(__file__).resolve().parents[1]
+REGISTER = ROOT / "data/sources/relations/security_arrangement_membership_register.csv"
+MASTER = ROOT / "outputs/tables/relations_condition/relationship_condition_country_master.csv"
 
 
 @pytest.fixture(scope="module")

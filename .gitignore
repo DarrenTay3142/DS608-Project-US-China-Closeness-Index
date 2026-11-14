@@ -239,6 +239,7 @@ data/sources/relations/**
 
 # Retain source documentation
 !data/sources/relations/**/
+!data/sources/relations/security_arrangement_membership_register.csv
 !data/sources/relations/**/README.md
 !data/sources/relations/**/*.md
 

@@ -4,6 +4,16 @@ import pandas as pd
 import pytest
 
 ROOT = Path(__file__).resolve().parents[1]
+SOURCE = ROOT / "data/interim/fdi/imf_dip_primary_candidates.csv"
+
+if not SOURCE.exists():
+    pytest.skip(
+        "Local-only IMF DIP candidate panel is unavailable: "
+        "data/interim/fdi/imf_dip_primary_candidates.csv. "
+        "See docs/local_data_requirements.md.",
+        allow_module_level=True,
+    )
+
 spec = importlib.util.spec_from_file_location("builder", ROOT / "src/data/build_fdi_structural_ties.py")
 b = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(b)
@@ -11,7 +21,7 @@ spec.loader.exec_module(b)
 @pytest.fixture(scope="module")
 def inputs():
     return (
-        pd.read_csv(ROOT / "data/interim/fdi/imf_dip_primary_candidates.csv", low_memory=False),
+        pd.read_csv(SOURCE, low_memory=False),
         pd.read_csv(ROOT / "outputs/tables/fdi/fdi_country_crosswalk_production_audit.csv", low_memory=False),
         pd.read_csv(ROOT / "outputs/tables/relations_condition/relationship_condition_country_master.csv", low_memory=False),
     )
