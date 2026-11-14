@@ -87,7 +87,7 @@ Within the central band:
 Add the final Streamlit Community Cloud URL here before submission:
 
 ```text
-PASTE_STREAMLIT_URL_HERE
+https://qdrjjfym8yptbeutkoftyf.streamlit.app
 ```
 
 ### Install and run locally
